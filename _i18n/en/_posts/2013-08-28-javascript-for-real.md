@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Javascript for Real"
-description: ""
-categories: en talks
-category: talks
-tags: ["javascript"]
+description: "Javascript"
+tags: [talks, javascript]
 ---
 {% include JB/setup %}
 

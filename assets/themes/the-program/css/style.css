@@ -619,7 +619,7 @@ pre {
 --------------------------------------------------------------------------------- */
 .unit-article header {
   border-bottom: 5px solid rgba(21, 25, 25, 0.8);
-  margin-bottom: 21px;
+  margin-bottom: 20px;
 }
 .unit-article header h1 {
   color: #2d2d2d;
@@ -658,6 +658,29 @@ pre {
   color: #474747;
   border: 0;
 }
+.unit-article .entry-content .post-list .post-item {
+  padding: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
+.unit-article .entry-content .post-list .post-item a h4 {
+  color: #666;
+}
+.unit-article .entry-content .post-list .post-item a .date {
+  color: #7fab55;
+  font-style: italic;
+  margin-right: 10px;
+}
+.unit-article .entry-content .post-list .post-item a .description {
+  color: #2d2d2d;
+}
+.unit-article .entry-content .post-list .post-item:hover {
+  background-color: #eee;
+}
+.unit-article .entry-content .post-list hr:last-child {
+  display: none;
+}
 .unit-article .entry-content:first-child h2,
 .unit-article .entry-content:first-child h3,
 .unit-article .entry-content:first-child h4,
@@ -666,13 +689,13 @@ pre {
   margin-top: 0;
 }
 .unit-article a:link {
-  border-bottom: 1px dashed #7fab55;
+  color: #7fab55;
 }
 .unit-article a:visited {
-  border-bottom: 1px dashed #668944;
+  color: #668944;
 }
 .unit-article a:hover {
-  border-bottom: 1px dashed #99bc77;
+  color: #99bc77;
 }
 .unit-article blockquote {
   border-left: 1em solid rgba(21, 25, 25, 0.8);
@@ -790,6 +813,7 @@ pre {
   border-top: 5px solid rgba(21, 25, 25, 0.8);
   padding-top: 1.625em;
   position: relative;
+  margin-top: 20px;
 }
 .unit-article .unit-foot nav ul {
   list-style: none;
@@ -915,7 +939,7 @@ pre {
   display: block;
   width: auto;
   padding: 13px 26px 13px 26px;
-  margin-bottom: 13px;
+  margin-bottom: 26px;
 }
 .the-header .unit-head .nav-global li.logo a {
   color: #fafafa;

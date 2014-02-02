@@ -4,21 +4,21 @@ title: header.articles
 ---
 {% include JB/setup %}
 
-<ul>
-  {% for post in site.categories['articles'] %}
-    <a href="{{ post.url }}">
-      <h3>{{ post.title }}</h3>
-      <dt>
-        {{ post.date | date: "%b %Y" }}
-      </dt>
-      <dd>
-        {% if post.description %}
-          {{ post.description | strip_html }}
-        {% else %}
-          {{ post.excerpt | strip_html }}
-        {% endif %}
-      </dd>
-    </a>
+<div class="post-list">
+  {% for post in site.tags['articles'] %}
+    <div class="post-item">
+      <a href="{{ post.url }}">
+        <h4>{{ post.title }}</h4>
+        <span class="date">{{ post.date | date: "%b %Y" }}</span>
+        <span class="description">
+          {% if post.description %}
+            {{ post.description | strip_html }}
+          {% else %}
+            {{ post.excerpt | strip_html }}
+          {% endif %}
+        </span>
+      </a>
+    </div>
+    <hr/>
   {% endfor %}
-</ul>
-
+</div>

@@ -107,7 +107,7 @@ pre {
 
 		header {
 			border-bottom: 5px solid rgba(21, 25, 25, 0.8);
-			margin-bottom: 21px;
+			margin-bottom: 20px;
 			h1 {
 				color: @main-font-color;
 				margin-top: 0;
@@ -134,6 +134,35 @@ pre {
 					}
 				}
 			}
+
+			.post-list {
+				.post-item {
+					padding: 10px;
+					-webkit-border-radius: 10px;
+					-moz-border-radius: 10px;
+					border-radius: 10px;
+					a {
+						h4 {
+							color: #666;
+						}
+						.date {
+							color: @accent-color;
+							font-style: italic;
+							margin-right: 10px;
+						}
+						.description {
+							color: @main-font-color;
+						}
+					}
+
+					&:hover {
+						background-color: #eee;
+					}
+				}
+				hr:last-child {
+					display: none;
+				}
+			}
 		} // .article-inner .entry-content
 
 		.entry-content:first-child h2,
@@ -143,9 +172,9 @@ pre {
 		.entry-content:first-child h6 { margin-top: 0; } // Canceling header margin since there is margin on header
 
 		a {
-			&:link { border-bottom: 1px dashed @accent-color; }
-			&:visited { border-bottom: 1px dashed darken(@accent-color, 10%); }
-			&:hover { border-bottom: 1px dashed lighten(@accent-color, 10%); }
+			&:link { color: @accent-color; }
+			&:visited { color: darken(@accent-color, 10%); }
+			&:hover { color: lighten(@accent-color, 10%); }
 		}
 
 		blockquote {
@@ -213,6 +242,7 @@ pre {
 			border-top: 5px solid rgba(21, 25, 25, 0.8);
 			padding-top: @line-height / @em;
 			position: relative;
+			margin-top: 20px;
 			nav ul {
 				list-style: none;
 				li { display: inline; }

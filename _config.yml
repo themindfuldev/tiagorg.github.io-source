@@ -82,10 +82,6 @@ JB :
     provider : facebook
     disqus :
       short_name : jekyllbootstrap
-    livefyre :
-      site_id : 123
-    intensedebate :
-      account : 123abc
     facebook :
       appid : 703069473065942
       num_posts: 10
@@ -100,13 +96,6 @@ JB :
     provider : google
     google :
         tracking_id : 'UA-41774824-1'
-    getclicky :
-      site_id :
-    mixpanel :
-        token : '_MIXPANEL_TOKEN_'
-    piwik :
-        baseURL : 'myserver.tld/piwik' # Piwik installation address (without protocol)
-        idsite : '1'                   # the id of the site on Piwik
 
   # Settings for sharing helper.
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
