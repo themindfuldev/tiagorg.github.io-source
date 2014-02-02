@@ -4,21 +4,5 @@ title: header.articles
 ---
 {% include JB/setup %}
 
-<div class="post-list">
-  {% for post in site.tags['articles'] %}
-    <div class="post-item">
-      <a href="{% if site.lang == "pt" %}/pt{% endif %}{{ post.url }}">
-        <h4>{% t post.title %}</h4>
-        <span class="date">{{ post.date | date: "%b %Y" }}</span>
-        <span class="description">
-          {% if post.description %}
-            {{ post.description | strip_html }}
-          {% else %}
-            {{ post.excerpt | strip_html }}
-          {% endif %}
-        </span>
-      </a>
-    </div>
-    <hr/>
-  {% endfor %}
-</div>
+{% assign posts_list = site.tags['articles'] %}
+{% include JB/posts_list %}
