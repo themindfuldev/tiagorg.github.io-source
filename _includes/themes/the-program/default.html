@@ -56,6 +56,18 @@
 					<a href="pt{{ page.url }}"><img src="{{ ASSET_PATH }}/img/flag-br.png"></a>
 					<a href="{{ page.url }}"><img src="{{ ASSET_PATH }}/img/flag-us.png"></a>
 				</p>
+				<ul class="tag_box inline">
+				  {% assign tags_list = site.tags %}
+				  {% include JB/tags_list %}
+				</ul>
+
+				{% for tag in site.tags %}
+				  <h2 id="{{ tag[0] }}-ref">{{ tag[0] }}</h2>
+				  <ul>
+				    {% assign pages_list = tag[1] %}
+				    {% include JB/pages_list %}
+				  </ul>
+				{% endfor %}
 				<p class="licence">
 					{% t footer.theme %}: <a href="http://layouts-the.me">the_minimum</a> {% t footer.based-on %} <a href="http://jekyllbootstrap.com/">Jekyll-bootstrap</a>.<br>
 					{% t footer.powered-by %} <a href="https://github.com/mojombo/jekyll">Jekyll</a>.
