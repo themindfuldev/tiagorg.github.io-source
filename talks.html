@@ -1,0 +1,26 @@
+---
+layout: page
+title: Talks
+header: Posts By Category
+group: navigation
+---
+{% include JB/setup %}
+
+<ul>
+  {% for post in site.categories['talks'] %}
+    <a href="{{ post.url }}">
+      <h3>{{ post.title }}</h3>
+      <dt>
+        {{ post.date | date: "%b %Y" }}
+      </dt>
+      <dd>
+        {% if post.description %}
+          {{ post.description | strip_html }}
+        {% else %}
+          {{ post.excerpt | strip_html }}
+        {% endif %}
+      </dd>
+    </a>
+  {% endfor %}
+</ul>
+

@@ -1,0 +1,11 @@
+header:
+  articles: Artigos
+  pro-tips: Dicas
+  talks: Palestras
+  projects: Projetos
+
+footer:
+  change-language: Mude seu idioma
+
+index:
+  main: Tiago Romero Garcia, marido da Cíntia, líder da matilha do Sherlock, Gerente Técnico e Líder Técnico de front-end, 28 anos.
