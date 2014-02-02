@@ -21,4 +21,6 @@ titles:
   about-me: About me
   archive: Archive
   tags: Tags
-  javascript-for-real: JavaScript for Real
+  talks:
+    javascript-for-real: Talk - JavaScript for Real
+    boosting-the-client-side-with-backbone-js: Talk - Boosting the client-side with Backbone.js

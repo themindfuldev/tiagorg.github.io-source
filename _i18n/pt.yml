@@ -21,4 +21,6 @@ titles:
   about-me: Sobre mim
   archive: Arquivo
   tags: Tags
-  javascript-for-real: JavaScript de verdade
+  talks:
+    javascript-for-real: Palestra - JavaScript de verdade
+    boosting-the-client-side-with-backbone-js: Palestra - Turbinando o client-side com Backbone.js

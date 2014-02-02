@@ -1,18 +1,17 @@
 ---
 layout: post
-title: titles.javascript-for-real
+title: titles.talks.javascript-for-real
 description: "A talk about how to code in JavaScript for real and start the good practices right now."
 tags: [talks, javascript]
 ---
 {% include JB/setup %}
 
 On August 13th and 28th of 2013 I gave this talk, focusing on developers coming from languages such as Java, explaining how to code in JavaScript for real and start the good practices right now.
-
-#### Videos
-
-* [Youtube video - Part 1](http://www.youtube.com/watch?v=kV5uEoyJ-pQ)
-* [Youtube video - Part 2](http://www.youtube.com/watch?v=cSYSQyHwQ5o)
-
+<br/>
+#### Part 1<br/><br/>
+<iframe width="560" height="315" src="//www.youtube.com/embed/kV5uEoyJ-pQ" frameborder="0" allowfullscreen="allowfullscreen"> </iframe><br/>
+#### Part 2<br/><br/>
+<iframe width="560" height="315" src="//www.youtube.com/embed/cSYSQyHwQ5o" frameborder="0" allowfullscreen="allowfullscreen"> </iframe><br/>
 #### Prerequisites
 
 * HTML

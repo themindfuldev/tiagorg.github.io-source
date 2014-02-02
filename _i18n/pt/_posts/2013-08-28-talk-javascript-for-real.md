@@ -1,18 +1,17 @@
 ---
 layout: post
-title: titles.javascript-for-real
+title: titles.talks.javascript-for-real
 description: "Uma palestra sobre como codificar em JavaScript de verdade e começar com as boas práticas agora mesmo."
 tags: [talks, javascript]
 ---
 {% include JB/setup %}
 
 Em 13 e 28 de agosto de 2013 eu dei esta palestra, focando em desenvolvedores vindo de linguagens como Java, explicando como codificar em JavaScript de verdade e começar com as boas práticas agora mesmo.
-
-#### Vídeos
-
-* [Vídeo no Youtube - Parte 1](http://www.youtube.com/watch?v=kV5uEoyJ-pQ)
-* [Vídeo no Youtube - Parte 1](http://www.youtube.com/watch?v=cSYSQyHwQ5o)
-
+<br/>
+#### Parte 1<br/><br/>
+<iframe width="560" height="315" src="//www.youtube.com/embed/kV5uEoyJ-pQ" frameborder="0" allowfullscreen="allowfullscreen"> </iframe><br/>
+#### Parte 2<br/><br/>
+<iframe width="560" height="315" src="//www.youtube.com/embed/cSYSQyHwQ5o" frameborder="0" allowfullscreen="allowfullscreen"> </iframe><br/>
 #### Pré-requisitos
 
 * HTML
