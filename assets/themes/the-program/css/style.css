@@ -681,6 +681,12 @@ pre {
 .unit-article .entry-content .post-list hr:last-child {
   display: none;
 }
+.unit-article .entry-content li {
+  margin-left: 40px;
+}
+.unit-article .entry-content .meta li {
+  margin-left: 0px;
+}
 .unit-article .entry-content:first-child h2,
 .unit-article .entry-content:first-child h3,
 .unit-article .entry-content:first-child h4,
@@ -772,7 +778,7 @@ pre {
   margin-bottom: 0;
 }
 .unit-article .list-linear .list-head {
-  margin-right: 4px;
+  margin-right: 20px;
 }
 .unit-article .list-category a,
 .unit-article .list-tag a {

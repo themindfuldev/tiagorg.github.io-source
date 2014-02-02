@@ -6,6 +6,7 @@ header:
 
 content:
   back-to-top: Voltar para o topo
+  published: Publicado em
 
 footer:
   change-language: Mude seu idioma
@@ -18,3 +19,6 @@ index:
 
 titles:
   about-me: Sobre mim
+  archive: Arquivo
+  tags: Tags
+  javascript-for-real: JavaScript de verdade
