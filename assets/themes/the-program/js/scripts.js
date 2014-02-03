@@ -99,6 +99,10 @@ var main = (function() {
               });
               li.append(repoLink);
 
+              li.append(' [')
+                .append(event.created_at.split('T')[0])
+                .append(']');
+
               documentFragment.appendChild(li[0]);
             }
           });
