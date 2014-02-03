@@ -71,7 +71,7 @@ var main = (function() {
         dataType: 'jsonp',
         success: function(response) {
           var documentFragment = document.createDocumentFragment();
-          response.data.length = 5;
+          response.data.length = 10;
           $.each(response.data, function(index, event) {
             if (event.type === 'PushEvent') {
               var li = $('<li/>');
