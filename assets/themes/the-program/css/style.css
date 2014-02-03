@@ -1011,6 +1011,7 @@ pre {
 }
 .the-footer p.flags img {
   padding-right: 4px;
+  margin-bottom: 0px;
 }
 .the-footer h4 {
   font-size: 20px;
@@ -1132,8 +1133,8 @@ pre {
     top: auto;
     display: block;
     float: left;
-    padding: 0 0 0 26px;
-    width: 420px;
+    padding: 0 26px 0 26px;
+    width: 394px;
   }
 }
 /*
@@ -1212,8 +1213,8 @@ pre {
     top: auto;
     display: block;
     float: left;
-    padding: 26px 0 0 26px;
-    width: 420px;
+    padding: 26px 26px 0 26px;
+    width: 394px;
   }
 }
 pre .c {
