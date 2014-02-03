@@ -7,9 +7,9 @@ title: titles.about-me
 <p>{% t index.main %}</p>
 <p><img src="http://2.gravatar.com/avatar/5cac784a074b86d771fe768274f6860c?size=300px" class="picture"></p>
 
-### Coderwall badges
+### {% t index.coderwall-badges %}
 <ul id="coderwall" class="coderwall"> </ul>
 
-### Recent activity
+### {% t index.recent-activity %}
 {% assign posts_list = site.posts limit: 5 %}
 {% include JB/posts_list %}

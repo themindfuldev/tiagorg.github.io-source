@@ -32,25 +32,75 @@ var main = (function() {
 
     if (el) {
       $.ajax({
-        url: 'http://coderwall.com/tiagorg.json',
+        url: 'https://coderwall.com/tiagorg.json',
         type: 'GET',
         crossDomain: true,
         dataType: 'jsonp',
         success: function(response) {
           var documentFragment = document.createDocumentFragment();
           $.each(response.data.badges, function(index, badge) {
-            var li = document.createElement('li');
+            var li = $('<li/>');
 
-            var img = document.createElement('img');
-            img.src = badge.badge;
-            img.title = badge.description;
-            li.appendChild(img);
+            var img = $('<img/>', {
+              src : badge.badge,
+              title : badge.description
+            });
+            li.append(img);
 
-            var p = document.createElement('p');
-            p.textContent = badge.name;
-            li.appendChild(p);
+            var p = $('<p/>', {
+              text: badge.name
+            });
+            li.append(p);
 
-            documentFragment.appendChild(li);
+            documentFragment.appendChild(li[0]);
+          });
+          el.html(documentFragment);
+        }
+      });
+    }
+  }
+
+  function setupGithubCommits() {
+    var el = $('#github-commits');
+
+    if (el) {
+      $.ajax({
+        url: 'https://api.github.com/users/tiagorg/events',
+        type: 'GET',
+        crossDomain: true,
+        dataType: 'jsonp',
+        success: function(response) {
+          var documentFragment = document.createDocumentFragment();
+          response.data.length = 5;
+          $.each(response.data, function(index, event) {
+            if (event.type === 'PushEvent') {
+              var li = $('<li/>');
+
+              var commitsLength = event.payload.commits.length;
+              $.each(event.payload.commits, function(index, commit) {
+                var commitUrl = 'https://github.com/' + event.payload.commits[0].url.split('/repos/')[1].replace('commits', 'commit');
+                var commitLink = $('<a/>', {
+                  href: commitUrl,
+                  text: event.payload.commits[0].message
+                });
+                li.append(commitLink);
+
+                if (index < commitsLength - 1) {
+                  li.append(', ');
+                }
+              });
+
+              li.append(' @ ');
+
+              var repoUrl = 'https://github.com/' + event.repo.url.split('/repos/')[1];
+              var repoLink = $('<a/>', {
+                href: repoUrl,
+                text: event.repo.name
+              });
+              li.append(repoLink);
+
+              documentFragment.appendChild(li[0]);
+            }
           });
           el.html(documentFragment);
         }
@@ -67,6 +117,7 @@ var main = (function() {
 
     initializejQuery: function() {
       setupScrollTop();
+      setupGithubCommits();
       setupCoderWall();
     }
   }

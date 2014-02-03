@@ -13,9 +13,12 @@ footer:
   theme: Tema
   based-on: baseado em
   powered-by: Fornecido por
+  github-commits: Commits recentes no Github
 
 index:
   main: Tiago Romero Garcia, marido da Cíntia, líder da matilha do Sherlock, Gerente Técnico e Líder Técnico de front-end, 28 anos.
+  coderwall-badges: Insígnias no Coderwall
+  recent-activity: Atividades recentes
 
 titles:
   about-me: Sobre mim
