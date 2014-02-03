@@ -701,6 +701,9 @@ pre {
   margin-bottom: 0px;
   padding: 0px 10px;
 }
+.unit-article .entry-content ul.coderwall li img:hover {
+  opacity: .6;
+}
 .unit-article .entry-content ul.coderwall li p {
   text-align: center;
   color: #666;

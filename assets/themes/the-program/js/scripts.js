@@ -41,11 +41,18 @@ var main = (function() {
           $.each(response.data.badges, function(index, badge) {
             var li = $('<li/>');
 
+            var link = $('<a/>', {
+              href: 'https://coderwall.com/tiagorg',
+              target: '_blank'
+            });
+
             var img = $('<img/>', {
               src : badge.badge,
               title : badge.description
             });
-            li.append(img);
+            link.append(img);
+
+            li.append(link);
 
             var p = $('<p/>', {
               text: badge.name
@@ -81,7 +88,8 @@ var main = (function() {
                 var commitUrl = 'https://github.com/' + event.payload.commits[0].url.split('/repos/')[1].replace('commits', 'commit');
                 var commitLink = $('<a/>', {
                   href: commitUrl,
-                  text: event.payload.commits[0].message
+                  text: event.payload.commits[0].message,
+                  target: '_blank'
                 });
                 li.append(commitLink);
 
@@ -95,7 +103,8 @@ var main = (function() {
               var repoUrl = 'https://github.com/' + event.repo.url.split('/repos/')[1];
               var repoLink = $('<a/>', {
                 href: repoUrl,
-                text: event.repo.name
+                text: event.repo.name,
+                target: '_blank'
               });
               li.append(repoLink);
 
