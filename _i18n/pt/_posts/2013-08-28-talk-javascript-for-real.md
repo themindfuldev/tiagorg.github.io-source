@@ -6,7 +6,7 @@ tags: [talks, javascript]
 ---
 {% include JB/setup %}
 
-Em 13 e 28 de agosto de 2013 eu dei esta palestra, focando em desenvolvedores vindo de linguagens como Java, explicando como codificar em JavaScript de verdade e começar com as boas práticas agora mesmo.
+Em 13 e 28 de agosto de 2013 eu dei esta palestra na Avenue Code, focando em desenvolvedores vindo de linguagens como Java, explicando como codificar em JavaScript de verdade e começar com as boas práticas agora mesmo.
 <br/>
 #### Parte 1
 <iframe width="560" height="315" src="//www.youtube.com/embed/kV5uEoyJ-pQ" frameborder="0" allowfullscreen="allowfullscreen"> </iframe><br/>

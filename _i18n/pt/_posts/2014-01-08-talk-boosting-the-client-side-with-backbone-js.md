@@ -6,7 +6,7 @@ tags: [talks, javascript]
 ---
 {% include JB/setup %}
 
-Em 8 de Janeiro de 2014 eu dei esta palestra, sobre os fundamentos de aplicações no client-side, REST, JSON, MVC e como combinar isto tudo em uma madura biblioteca da família MV* em JavaScript (SPA), Backbone.js.
+Em 8 de Janeiro de 2014 eu dei esta palestra na Avenue Code, sobre os fundamentos de aplicações no client-side, REST, JSON, MVC e como combinar isto tudo em uma madura biblioteca da família MV* em JavaScript (SPA), Backbone.js.
 <br/>
 #### Vídeo
 <iframe width="560" height="315" src="//www.youtube.com/embed/8ZzqMFAU_Kw" frameborder="0" allowfullscreen="allowfullscreen"> </iframe><br/>

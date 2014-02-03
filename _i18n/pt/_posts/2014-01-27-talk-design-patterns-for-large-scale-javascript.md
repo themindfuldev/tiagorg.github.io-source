@@ -6,7 +6,7 @@ tags: [talks, javascript]
 ---
 {% include JB/setup %}
 
-Em 27 de Janeiro de 2014 eu dei esta palestra, sobre padrões de projeto essencials para aplicações JavaScript em grande escala.
+Em 27 de Janeiro de 2014 eu dei esta palestra na Avenue Code, sobre padrões de projeto essencials para aplicações JavaScript em grande escala.
 <br/>
 #### Apresentação
 <iframe src="//slid.es/avenuecode/design-patterns-for-large-scale-javascript/embed" width="560" height="420" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen"> </iframe><br/>
