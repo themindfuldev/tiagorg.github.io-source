@@ -25,6 +25,8 @@ titles:
   archive: Arquivo
   tags: Tags
   talks:
-    javascript-for-real: Palestra - JavaScript de verdade
-    boosting-the-client-side-with-backbone-js: Palestra - Turbinando o client-side com Backbone.js
-    design-patterns-for-large-scale-javascript: Palestra - Padrões de Projeto para JavaScript em grande escala
+    javascript-for-real: Palestra - JavaScript de verdade [en]
+    boosting-the-client-side-with-backbone-js: Palestra - Turbinando o client-side com Backbone.js [en]
+    design-patterns-for-large-scale-javascript: Palestra - Padrões de Projeto para JavaScript em grande escala [en]
+  articles:
+    boosting-applications-with-rest-and-backbone-js: Artigo - Turbinando aplicações com REST e Backbone.js [pt]

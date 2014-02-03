@@ -6,7 +6,7 @@ tags: [talks, javascript]
 ---
 {% include JB/setup %}
 
-Em 27 de Janeiro de 2014 eu dei esta palestra na Avenue Code, sobre padrões de projeto essencials para aplicações JavaScript em grande escala.
+Em 27 de Janeiro de 2014 eu dei esta palestra (em inglês) na Avenue Code, sobre padrões de projeto essencials para aplicações JavaScript em grande escala.
 <br/>
 #### Apresentação
 <iframe src="//slid.es/avenuecode/design-patterns-for-large-scale-javascript/embed" width="560" height="420" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen"> </iframe><br/>
@@ -18,7 +18,7 @@ Em 27 de Janeiro de 2014 eu dei esta palestra na Avenue Code, sobre padrões de 
 
 #### Recursos
 
-* [Aprendendo Padrões de Projeto em JavaScript - Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns)
-* [Padrões para Arquitetura de Aplicações JavaScript em grande escala](http://addyosmani.com/largescalejavascript)
-* [Padrões JavaScript - Stoyan Stefanov](http://shop.oreilly.com/product/9780596806767.do)
+* [Learning JavaScript Design Patterns - Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns)
+* [Patterns for Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript)
+* [Javascript Patterns - Stoyan Stefanov](http://shop.oreilly.com/product/9780596806767.do)
 * [AuraJS](http://aurajs.com)

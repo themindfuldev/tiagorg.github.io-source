@@ -1,0 +1,759 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"si",
+				"sidebarView"
+			],
+			[
+				"Side",
+				"SidebarController"
+			],
+			[
+				"ret",
+				"retrieveTopFive"
+			],
+			[
+				"top",
+				"topFiveUsersView"
+			],
+			[
+				"Top",
+				"topFiveUsersCollection"
+			],
+			[
+				"user",
+				"userModel"
+			],
+			[
+				"tot",
+				"totalUsers"
+			],
+			[
+				"S",
+				"SummaryController"
+			],
+			[
+				"Q",
+				"QuestionController"
+			],
+			[
+				"A",
+				"AgainController"
+			],
+			[
+				"Welcome",
+				"WelcomeController"
+			],
+			[
+				"get",
+				"getKey"
+			],
+			[
+				"User",
+				"UserRepository"
+			],
+			[
+				"us",
+				"userModel"
+			],
+			[
+				"welcome",
+				"welcomeView"
+			],
+			[
+				"u",
+				"uglify"
+			],
+			[
+				"answerSt",
+				"answersStats"
+			],
+			[
+				"users",
+				"usersSequence"
+			],
+			[
+				"bui",
+				"buildAnswersPercentage"
+			],
+			[
+				"ans",
+				"answersStats"
+			],
+			[
+				"answer",
+				"answerStats"
+			],
+			[
+				"corr",
+				"correctAnswers"
+			],
+			[
+				"origin",
+				"originalQuestion"
+			],
+			[
+				"o",
+				"originalQuestion"
+			],
+			[
+				"ori",
+				"originalQuestion"
+			],
+			[
+				"ue",
+				"userAnswers"
+			],
+			[
+				"calculate",
+				"calculateResult"
+			],
+			[
+				"sa",
+				"saveUserModel"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"ne",
+				"nextUserId"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"git push cu",
+				"Git: Push Current Branch"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"git pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"git lo",
+				"Git: Log Current File"
+			],
+			[
+				"git pul",
+				"Git: Pull"
+			],
+			[
+				"set sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/controllers/sidebar.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/views/sidebar.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/collections/user.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/repositories/user.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/README.md",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/routers/content.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/node_modules/grunt/node_modules/colors/ReadMe.md",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/main.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/templates/sidebar.hbs",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/styles/main.scss",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/models/user.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/views/top-five-users.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/controllers/top-five-users.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/routes/app.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/routers/app.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/collections/top-five-users.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/templates/summary.hbs",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/views/summary.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/views/welcome.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/views/question.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/config/mediator.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/templates/welcome-again.hbs",
+		"/Users/tgarcia/Development/Personal/quiz-app/Gruntfile.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/models/summary.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/controllers/again.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/controllers/summary.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/templates/top-five-users.hbs",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/index.html",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/templates/top-five.hbs",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/controllers/top-five.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/collections/user-top-five.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/controllers/question.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/controllers/welcome.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/templates/welcome-new.hbs",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/handlebars/partials.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/handlebars/custom-helpers.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/common.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/questions-data.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/views/error.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/models/question.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/templates/welcome.hbs",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/templates/error.hbs",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/templates/question.hbs",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/bower_components/backbone/test/router.js",
+		"/Users/tgarcia/Development/Personal/puc/.gitignore",
+		"/Users/tgarcia/Development/Personal/unifei/.gitignore",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/build.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/main-built.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/data.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/package.json",
+		"/Users/tgarcia/Development/Personal/quiz-app/node_modules/load-grunt-tasks/readme.md",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/bower_components/sass-bootstrap/Gruntfile.js",
+		"/Users/tgarcia/Development/Personal/quiz-app/bower.json",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/models/answer.js",
+		"/Users/tgarcia/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/tgarcia/Development/Personal/quiz-app/.gitignore",
+		"/Users/tgarcia/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/bower_components/modernizr/feature-detects/css-filters.js",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/.git/MERGE_MSG",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/views/search/search.js",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/config/appconfig.yml",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/templates/pagination.jst.hbs",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/collections/orders.js",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/README.md",
+		"/etc/hosts",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/templates/ticket/ticket_header.jst.hbs",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/views/ticket/dialog/forward_to_seller.js",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/views/ticket/ticket.js",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/VERSION",
+		"/Users/tgarcia/Development/Walmart/customer-services/.gitignore",
+		"/Users/tgarcia/Development/Walmart/customer-services/.git/MERGE_MSG",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/routers/app_router.js",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/views/ticket/change/ticket_change.js",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/features/support/helpers/cucumber_helpers.rb",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/features/value_total_client.feature",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/features/invoice.feature",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/features/step_definitions/steps_commons.rb",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/features/support/env.rb",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/features/support/download_helpers.rb",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/Gemfile",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/templates/delivery/delivery.jst.hbs",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/config/routes.rb",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/customer_services_frontend.js",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/controllers/api/v1/deliveries_controller.rb",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/features/support/chromedriver.rb",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/features/cancel.feature",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/views/ticket/list/ticket_list.js",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/views/open_tickets/open_tickets.js",
+		"/Users/tgarcia/Development/Walmart/selfhelp-api/modules/desktop/invoice.descriptor",
+		"/Users/tgarcia/Development/Walmart/selfhelp-api/endpoints/invoice.endpoint",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/stylesheets/order.less",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/stylesheets/delivery.less",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/views/delivery/delivery.js",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/views/delivery/delivery_item.js",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/common/common_functions.js",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/views/search/search_result_item.js",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/collections/delivery_item.js",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/stylesheets/ticket.less",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/templates/ticket/list/ticket_list.jst.hbs",
+		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/views/order/orders.js",
+		"/Users/tgarcia/.bash_profile",
+		"/Users/tgarcia/Development/Personal/eai/.git/MERGE_MSG",
+		"/Users/tgarcia/Development/Personal/eai/.gitignore",
+		"/Users/tgarcia/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/tgarcia/Development/Personal/quiz-app",
+			"/Users/tgarcia/Development/Walmart/customer-services-frontend/",
+			"/Users/tgarcia/Development/Walmart/customer-services-frontend/*.js",
+			"/Users/tgarcia/Development/Walmart/customer-services-frontend/",
+			"/Users/tgarcia/Development/Walmart/customer-services-frontend/features",
+			"/Users/tgarcia/Development/Walmart/customer-services-frontend/features/support",
+			"*.js",
+			"*.less"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"topFiveUsersView",
+			"    \n",
+			"getTotalUsers",
+			"Common",
+			"Common.",
+			"local",
+			"templates",
+			"parseFl",
+			"float",
+			"configureRe",
+			"paths:",
+			"bower_components",
+			"optimize:",
+			".Model",
+			"[Model]",
+			"originalQ",
+			"questionsdata",
+			"livereload",
+			"load-grunt-tasks",
+			"grunt-contrib-connect",
+			"server",
+			"grunt-contrib",
+			"connect",
+			"keepalive",
+			"server",
+			"    \n",
+			"inline-help",
+			"    \n",
+			"../bower_components/",
+			"../bower_components",
+			"enableForwardToSeller",
+			"loadMore",
+			"processSearch",
+			"processsearch",
+			"currentParams",
+			"loadMore",
+			"hide()",
+			"submit",
+			"Capybara.default_driver",
+			"@wip",
+			"shrinkToOneLine",
+			"invoice",
+			"ticket-li",
+			"ticket-items",
+			"showError",
+			"forma",
+			"eai"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sidebarView",
+			"",
+			"help-inline",
+			"",
+			"estilo"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"content",
+				"app/scripts/routers/content.js"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"readm",
+				"node_modules/grunt/node_modules/colors/ReadMe.md"
+			],
+			[
+				"user",
+				"app/scripts/models/user.js"
+			],
+			[
+				"main.sc",
+				"app/styles/main.scss"
+			],
+			[
+				"topfive",
+				"app/scripts/views/top-five-users.js"
+			],
+			[
+				"media",
+				"app/scripts/config/mediator.js"
+			],
+			[
+				"gruntf",
+				"Gruntfile.js"
+			],
+			[
+				"app",
+				"app/scripts/routes/app.js"
+			],
+			[
+				"summ",
+				"app/scripts/views/summary.js"
+			],
+			[
+				"welcome",
+				"app/scripts/views/welcome.js"
+			],
+			[
+				"ques",
+				"app/scripts/views/question.js"
+			],
+			[
+				"wel",
+				"app/scripts/views/welcome.js"
+			],
+			[
+				"approut",
+				"app/scripts/routes/app.js"
+			],
+			[
+				"rout",
+				"app/bower_components/backbone/test/router.js"
+			],
+			[
+				"main",
+				"app/scripts/main.js"
+			],
+			[
+				"question",
+				"app/scripts/views/question.js"
+			],
+			[
+				"question.js",
+				"app/scripts/models/question.js"
+			],
+			[
+				"question.hb",
+				"app/scripts/templates/question.hbs"
+			],
+			[
+				"main.s",
+				"app/styles/main.scss"
+			],
+			[
+				"commo",
+				"app/scripts/common.js"
+			],
+			[
+				"bow",
+				"bower.json"
+			],
+			[
+				"sum",
+				"app/scripts/templates/summary.hbs"
+			],
+			[
+				"welcom",
+				"app/scripts/templates/welcome.hbs"
+			],
+			[
+				"mainscss",
+				"app/styles/main.scss"
+			],
+			[
+				"main.js",
+				"app/scripts/main.js"
+			],
+			[
+				"csf",
+				"app/bower_components/modernizr/feature-detects/css-filters.js"
+			],
+			[
+				"tickethead",
+				"app/assets/javascripts/views/ticket/ticket_header.js"
+			],
+			[
+				"ticketnav",
+				"app/assets/templates/ticket/ticket_navbar.jst.hbs"
+			],
+			[
+				"forwar",
+				"app/assets/javascripts/views/ticket/dialog/forward_to_seller.js"
+			],
+			[
+				"ticket.js",
+				"app/assets/javascripts/views/ticket/ticket.js"
+			],
+			[
+				"forward",
+				"app/assets/javascripts/views/ticket/dialog/forward_to_seller.js"
+			],
+			[
+				"tickethea",
+				"app/assets/templates/ticket/ticket_header.jst.hbs"
+			],
+			[
+				"orders",
+				"app/assets/javascripts/collections/orders.js"
+			],
+			[
+				"pagination",
+				"app/assets/templates/pagination.jst.hbs"
+			],
+			[
+				"paginatio",
+				"app/assets/templates/pagination.jst.hbs"
+			],
+			[
+				"search.js",
+				"app/assets/javascripts/views/search/search.js"
+			],
+			[
+				"ticketchange",
+				"app/assets/javascripts/views/ticket/change/ticket_change.js"
+			],
+			[
+				"downloa",
+				"features/support/download_helpers.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"deliveryhb",
+				"app/assets/templates/delivery/delivery.jst.hbs"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"stepcom",
+				"features/step_definitions/steps_commons.rb"
+			],
+			[
+				"invoice",
+				"features/invoice.feature"
+			],
+			[
+				"deliveryjst",
+				"customer-services-frontend/app/assets/templates/delivery/delivery.jst.hbs"
+			],
+			[
+				"commonfun",
+				"customer-services-frontend/app/assets/javascripts/common/common_functions.js"
+			],
+			[
+				"deliveryitem",
+				"customer-services-frontend/app/assets/javascripts/views/delivery/delivery_item.js"
+			],
+			[
+				"delivery.js",
+				"customer-services-frontend/app/assets/javascripts/views/delivery/delivery.js"
+			],
+			[
+				"delivery.les",
+				"customer-services-frontend/app/assets/stylesheets/delivery.less"
+			],
+			[
+				"delivery.hbs",
+				"customer-services-frontend/app/assets/templates/delivery/delivery.jst.hbs"
+			],
+			[
+				"delivery.less",
+				"customer-services-frontend/app/assets/stylesheets/delivery.less"
+			],
+			[
+				"openti",
+				"app/assets/javascripts/views/open_tickets/open_tickets.js"
+			],
+			[
+				"approu",
+				"app/assets/javascripts/routers/app_router.js"
+			],
+			[
+				"ticketlist.jst",
+				"app/assets/templates/ticket/list/ticket_list.jst.hbs"
+			],
+			[
+				"ticket.less",
+				"app/assets/stylesheets/ticket.less"
+			],
+			[
+				"ticket_list.jst",
+				"app/assets/templates/ticket/list/ticket_list.jst.hbs"
+			],
+			[
+				"ticketlist",
+				"app/assets/javascripts/views/ticket/list/ticket_list.js"
+			],
+			[
+				"router",
+				"app/assets/javascripts/routers/app_router.js"
+			],
+			[
+				"order",
+				"app/assets/javascripts/views/order/orders.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true
+}
