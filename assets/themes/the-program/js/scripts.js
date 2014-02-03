@@ -27,11 +27,47 @@ var main = (function() {
     });
   }
 
+  function setupCoderWall() {
+    var el = $('#coderwall');
+
+    if (el) {
+      $.ajax({
+        url: 'http://coderwall.com/tiagorg.json',
+        type: 'GET',
+        crossDomain: true,
+        dataType: 'jsonp',
+        success: function(response) {
+          var documentFragment = document.createDocumentFragment();
+          $.each(response.data.badges, function(index, badge) {
+            var li = document.createElement('li');
+
+            var img = document.createElement('img');
+            img.src = badge.badge;
+            img.title = badge.description;
+            li.appendChild(img);
+
+            var p = document.createElement('p');
+            p.textContent = badge.name;
+            li.appendChild(p);
+
+            documentFragment.appendChild(li);
+          });
+          el.html(documentFragment);
+        }
+      });
+    }
+  }
+
   return {
     initialize: function() {
       setupTwitter(document, 'script');
       iosFix(window);
-      $(setupScrollTop);
+      $(this.initializejQuery);
+    },
+
+    initializejQuery: function() {
+      setupScrollTop();
+      setupCoderWall();
     }
   }
 })();

@@ -8,7 +8,9 @@ tags: [talks, javascript]
 
 On January 8th of 2014 I gave this talk, about the fundamentals on client-side apps, REST, JSON, MVC and how to blend it all together in a mature Javascript SPA library from the MV* family, Backbone.js.
 <br/>
+#### Video
 <iframe width="560" height="315" src="//www.youtube.com/embed/8ZzqMFAU_Kw" frameborder="0" allowfullscreen="allowfullscreen"> </iframe><br/>
+#### Slide deck
 <iframe src="//slid.es/avenuecode/boosting-the-client-side-with-backbone-js/embed" width="576" height="420" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen"> </iframe><br/>
 #### Prerequisites
 
