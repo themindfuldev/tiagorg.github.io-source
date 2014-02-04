@@ -17,7 +17,7 @@ O artigo apresenta conceitos e métricas de Garbage Collection em Java, além da
 O artigo apresenta conceitos e métricas de Garbage Collection em Java, além da categorização da memória heap em generations. Em seguida, apresenta a JVM HotSpot 6 e seu funcionamento geral com relação à Garbage Collection, assim como a sua personalização através de opções da JVM. A partir daqui, explica sobre cada collector, seu funcionamento, suas opções de personalização e suas implementações, fazendo também um comparativo final mostrando quando é mais adequado utilizar cada um dos collectors disponíveis. Ainda, apresenta a JVM HotSpot 7 e seu novo collector, seu funcionamento e opções de personalização.
 
 #### Links
- * [Java SE 6 HotSpot[tm] Virtual Machine Garbage Collection Tuning](http://www.oracle.com/technetwork/java/javase/gc-tuning-6-140523.html) Documentação oficial da Oracle sobre Garbage Collection na JVM HotSpot 6.
+ * [Java SE 6 HotSpot Virtual Machine Garbage Collection Tuning](http://www.oracle.com/technetwork/java/javase/gc-tuning-6-140523.html) Documentação oficial da Oracle sobre Garbage Collection na JVM HotSpot 6.
  * [Our Collectors](http://blogs.oracle.com/jonthecollector/entry/our_collectors) Implementações de collectors da JVM HotSpot 6.
  * [The Garbage-First Garbage Collector](http://www.oracle.com/technetwork/java/javase/tech/g1-intro-jsp-135488.html) Documentação oficial da Oracle sobre o collector Garbage-First.
  * [Mark-and-Sweep Garbage Collection](http://www.brpreiss.com/books/opus5/html/page424.html) Explicação detalhada do algoritmo Mark-and-Sweep.

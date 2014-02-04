@@ -17,7 +17,7 @@ This article presents concepts and metrics about Garbage Collection in Java, as 
 The subject is very relevant to any Java developer, even though the consequences of a badly configured Garbage Collection process won't be much evident in development environments, certainly will make the difference in production environments, and it is important to understand the reasons that cause unexpected behavior in the Garbage Collection when operated by multiple processors and big data.
 
 #### Links
- * [Java SE 6 HotSpot[tm] Virtual Machine Garbage Collection Tuning](http://www.oracle.com/technetwork/java/javase/gc-tuning-6-140523.html) Official documentation from Oracle about Garbage Collection in JVM HotSpot 6.
+ * [Java SE 6 HotSpot Virtual Machine Garbage Collection Tuning](http://www.oracle.com/technetwork/java/javase/gc-tuning-6-140523.html) Official documentation from Oracle about Garbage Collection in JVM HotSpot 6.
  * [Our Collectors](http://blogs.oracle.com/jonthecollector/entry/our_collectors) Collectors implementations on JVM HotSpot 6.
  * [The Garbage-First Garbage Collector](http://www.oracle.com/technetwork/java/javase/tech/g1-intro-jsp-135488.html) Official documentation from Oracle about the Garbage-First collector.
  * [Mark-and-Sweep Garbage Collection](http://www.brpreiss.com/books/opus5/html/page424.html) Detailed explanation about Mark-and-Sweep algorithm.
