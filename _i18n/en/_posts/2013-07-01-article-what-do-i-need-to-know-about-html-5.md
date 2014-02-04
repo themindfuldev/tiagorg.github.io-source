@@ -1,12 +1,12 @@
 ---
 layout: post
 title: titles.articles.what-do-i-need-to-know-about-html-5
-description: "An article published on Java Magazine #116, about HTML 5 as an alternative for development exclusively based on the server-side."
+description: "An article published in Java Magazine #116, about HTML 5 as an alternative for development exclusively based on the server-side."
 tags: [article, html5]
 ---
 {% include JB/setup %}
 
-On July, 2013 I published an article (in Portuguese) at Java Magazine #116, sobre o HTML 5 as an alternative for development exclusively based on the server-side. This technology introduces and standardizes many innovative features on the browser or mobile device, in a safe, portable and native way.
+On July, 2013 I published an article (in Portuguese) in Java Magazine #116, sobre o HTML 5 as an alternative for development exclusively based on the server-side. This technology introduces and standardizes many innovative features on the browser or mobile device, in a safe, portable and native way.
 
 [Article What do I need to know about HTML 5? - DevMedia](http://www.devmedia.com.br/o-que-preciso-saber-sobre-html-5-revista-java-magazine-116/28078)
 

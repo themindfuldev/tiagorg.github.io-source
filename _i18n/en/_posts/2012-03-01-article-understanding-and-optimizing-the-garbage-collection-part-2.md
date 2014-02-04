@@ -1,12 +1,12 @@
 ---
 layout: post
 title: titles.articles.understanding-and-optimizing-the-garbage-collection-part-2
-description: "An article published on Java Magazine #103, about the operation of the colletors from the JVMs Oracle JRockit (WebLogic), IBM Virtual Machine for Java (WebSphere), those ones which implement JSR-1 (RTSJ) and Dalvik (Android)."
+description: "An article published in Java Magazine #103, about the operation of the colletors from the JVMs Oracle JRockit (WebLogic), IBM Virtual Machine for Java (WebSphere), those ones which implement JSR-1 (RTSJ) and Dalvik (Android)."
 tags: [article, java]
 ---
 {% include JB/setup %}
 
-In March, 2012 I published an article (in Portuguese) on Java Magazine #103, about the operation of the colletors from the JVMs Oracle JRockit (used by WebLogic Java EE application server), IBM Virtual Machine for Java (used by WebSphere Java EE application server), those ones which implement JSR-1 (also known as Real-Time Specification for Java or RTSJ) and Dalvik (used by Android devices).
+In March, 2012 I published an article (in Portuguese) in Java Magazine #103, about the operation of the colletors from the JVMs Oracle JRockit (used by WebLogic Java EE application server), IBM Virtual Machine for Java (used by WebSphere Java EE application server), those ones which implement JSR-1 (also known as Real-Time Specification for Java or RTSJ) and Dalvik (used by Android devices).
 
 [Article Understanding and optimizing the Garbage Collection - Part 2 - DevMedia](http://www.devmedia.com.br/entendendo-e-otimizando-o-garbage-collection-revista-java-magazine-103-parte-2/24387)
 

@@ -6,7 +6,7 @@ tags: [article, backbone.js]
 ---
 {% include JB/setup %}
 
-On January, 2014 I published an article (in Portuguese) at Java Magazine #123, about smart client-side applications, comparing them with other web application styles such as Java web frameworks.
+On January, 2014 I published an article (in Portuguese) in Java Magazine #123, about smart client-side applications, comparing them with other web application styles such as Java web frameworks.
 
 [Article Boosting applications with REST and Backbone.js - DevMedia](http://www.devmedia.com.br/turbinando-aplicacoes-com-rest-e-backbone-js/29692)
 
