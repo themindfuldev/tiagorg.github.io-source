@@ -13,7 +13,7 @@ On July, 2013 I published an article (in Portuguese) at Java Magazine #116, sobr
 #### Summary
 HTML 5 emerged as a movement to leverage many features designed to better explore the client-side in web applications, which can be beneficial in a few scenarios. This movement introduces certain client-side features such as offline work, persistence, multi-threading, low-level network communication, reproducing audio and video without plugins, geolocalization and form validation. All those features will be addressed on this article, as well a brief comment about the Dashorn project, which aims to make it possible to run JavaScript directly on the JVM.
 
-#### When the subject is useful
+#### When is the subject useful
 This subject is useful for Java developers which want to learn how to bring the desktop experience to web applications, reducing the response and navigation time, working without depending on any plugin and having just one client-side codebase independent of device and platform.
 
 #### Links
