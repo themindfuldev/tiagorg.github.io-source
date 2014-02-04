@@ -85,10 +85,10 @@ var main = (function() {
 
               var commitsLength = event.payload.commits.length;
               $.each(event.payload.commits, function(index, commit) {
-                var commitUrl = 'https://github.com/' + event.payload.commits[0].url.split('/repos/')[1].replace('commits', 'commit');
+                var commitUrl = 'https://github.com/' + commit.url.split('/repos/')[1].replace('commits', 'commit');
                 var commitLink = $('<a/>', {
                   href: commitUrl,
-                  text: event.payload.commits[0].message,
+                  text: commit.message,
                   target: '_blank'
                 });
                 li.append(commitLink);

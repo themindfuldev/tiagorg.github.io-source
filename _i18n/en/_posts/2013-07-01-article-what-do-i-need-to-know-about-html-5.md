@@ -1,7 +1,7 @@
 ---
 layout: post
 title: titles.articles.what-do-i-need-to-know-about-html-5
-description: "An article published on Java Magazine 116, about HTML 5 as an alternative for development exclusively based on the server-side."
+description: "An article published on Java Magazine #116, about HTML 5 as an alternative for development exclusively based on the server-side."
 tags: [article, html5]
 ---
 {% include JB/setup %}

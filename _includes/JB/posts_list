@@ -9,7 +9,7 @@ Usage:
 -->{% endcomment %}
 
 <div class="post-list">
-  {% for post in posts_list %}
+  {% for post in posts_list limit:posts_limit %}
     <div class="post-item">
       <a href="{% if site.lang == "pt" %}/pt{% endif %}{{ post.url }}">
         <h4>{% t post.title %}</h4>

@@ -11,5 +11,7 @@ title: titles.about-me
 <ul id="coderwall" class="coderwall"> </ul>
 
 ### {% t index.recent-activity %}
-{% assign posts_list = site.posts limit: 5 %}
+{% assign posts_list = site.posts %}
+{% assign posts_limit = 5 %}
 {% include JB/posts_list %}
+{% assign posts_limit = 0 %}
