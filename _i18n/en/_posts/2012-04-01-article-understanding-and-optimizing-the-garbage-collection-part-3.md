@@ -2,7 +2,7 @@
 layout: post
 title: titles.articles.understanding-and-optimizing-the-garbage-collection-part-3
 description: "An article published in Java Magazine #104, about common problems in Java code which ignore how Garbage Collection operates, how to write code to optimize this process and how to analyse the heap memory status in runtime."
-tags: [article, java]
+tags: [article, java, garbage collection]
 ---
 {% include JB/setup %}
 

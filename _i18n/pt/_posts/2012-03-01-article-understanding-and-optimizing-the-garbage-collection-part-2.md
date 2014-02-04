@@ -2,7 +2,7 @@
 layout: post
 title: titles.articles.understanding-and-optimizing-the-garbage-collection-part-2
 description: "Um artigo publicado na Java Magazine 103, sobre o funcionamento dos collectors das JVMs Oracle JRockit (WebLogic), IBM Virtual Machine for Java (WebSphere), as que implementam a JSR-1 (RTSJ) e Dalvik (Android)."
-tags: [article, java]
+tags: [article, java, garbage collection]
 ---
 {% include JB/setup %}
 

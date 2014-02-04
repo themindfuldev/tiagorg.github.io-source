@@ -2,7 +2,7 @@
 layout: post
 title: titles.articles.boosting-applications-with-rest-and-backbone-js
 description: "Um artigo publicado na Java Magazine 123, sobre aplicações inteligentes no client-side usando REST e Backbone.js, comparando com outros tipos de aplicações web."
-tags: [article, backbone.js]
+tags: [article, javascript, backbone.js]
 ---
 {% include JB/setup %}
 

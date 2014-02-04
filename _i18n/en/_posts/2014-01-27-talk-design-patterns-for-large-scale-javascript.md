@@ -2,7 +2,7 @@
 layout: post
 title: titles.talks.design-patterns-for-large-scale-javascript
 description: "A talk about the essential design patterns for large-scale JavaScript applications."
-tags: [talks, javascript]
+tags: [talks, javascript, design patterns]
 ---
 {% include JB/setup %}
 
