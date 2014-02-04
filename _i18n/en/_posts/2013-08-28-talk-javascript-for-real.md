@@ -2,7 +2,7 @@
 layout: post
 title: titles.talks.javascript-for-real
 description: "A talk about how to code in JavaScript for real and start the good practices right now."
-tags: [talks, javascript]
+tags: [talk, javascript]
 ---
 {% include JB/setup %}
 

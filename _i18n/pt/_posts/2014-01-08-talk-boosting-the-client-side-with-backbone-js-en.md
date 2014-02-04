@@ -2,7 +2,7 @@
 layout: post
 title: titles.talks.boosting-the-client-side-with-backbone-js-en
 description: "Uma palestra sobre os fundamentos de aplicações no client-side, REST, JSON, MVC e como combinar isto tudo em uma madura biblioteca da família MV* em JavaScript (SPA), Backbone.js."
-tags: [talks, javascript, backbone.js]
+tags: [talk, javascript, backbone.js]
 ---
 {% include JB/setup %}
 

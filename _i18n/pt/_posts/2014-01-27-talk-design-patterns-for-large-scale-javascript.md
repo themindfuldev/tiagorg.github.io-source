@@ -2,7 +2,7 @@
 layout: post
 title: titles.talks.design-patterns-for-large-scale-javascript
 description: "Uma palestra sobre Padrões de projeto essenciais para aplicações JavaScript em grande escala."
-tags: [talks, javascript, design patterns]
+tags: [talk, javascript, design patterns]
 ---
 {% include JB/setup %}
 

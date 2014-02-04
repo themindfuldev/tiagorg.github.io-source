@@ -2,7 +2,7 @@
 layout: post
 title: titles.talks.javascript-for-real
 description: "Uma palestra sobre como codificar em JavaScript de verdade e começar com as boas práticas agora mesmo."
-tags: [talks, javascript]
+tags: [talk, javascript]
 ---
 {% include JB/setup %}
 

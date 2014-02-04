@@ -2,7 +2,7 @@
 layout: post
 title: titles.articles.boosting-applications-with-rest-and-backbone-js
 description: "An article published in Java Magazine #123, about smart client-side applications using REST and Backbone.js, comparing with other web application styles such as Java web frameworks."
-tags: [article, javascript, backbone.js]
+tags: [article, javascript, backbone.js, play]
 ---
 {% include JB/setup %}
 

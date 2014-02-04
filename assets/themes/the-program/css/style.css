@@ -456,6 +456,9 @@ img {
   margin-top: 0;
   margin-bottom: 1.625em;
 }
+ul ul {
+  margin-bottom: 0;
+}
 small,
 .small,
 aside {
