@@ -26,7 +26,8 @@ titles:
   tags: Tags
   talks:
     javascript-for-real: Talk - JavaScript for Real [en]
-    boosting-the-client-side-with-backbone-js: Talk - Boosting the client-side with Backbone.js [en]
+    boosting-the-client-side-with-backbone-js-en: Talk - Boosting the client-side with Backbone.js [en]
+    boosting-the-client-side-with-backbone-js-pt: Talk - Boosting the client-side with Backbone.js [pt]
     design-patterns-for-large-scale-javascript: Talk - Design Patterns for Large-Scale JavaScript [en]
   articles:
     boosting-applications-with-rest-and-backbone-js: Article - Boosting applications with REST and Backbone.js [pt]

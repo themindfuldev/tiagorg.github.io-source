@@ -1,16 +1,18 @@
 ---
 layout: post
-title: titles.talks.boosting-the-client-side-with-backbone-js
+title: titles.talks.boosting-the-client-side-with-backbone-js-en
 description: "A talk about the fundamentals on client-side apps, REST, JSON, MVC and how to blend it all together in a mature JavaScript SPA library from the MV* family, Backbone.js."
 tags: [talks, javascript, backbone.js]
 ---
 {% include JB/setup %}
 
-On January 8th, 2014 I gave this talk (in English) at Avenue Code, about the fundamentals on client-side apps, REST, JSON, MVC and how to blend it all together in a mature JavaScript SPA library from the MV* family, Backbone.js.
+On January 8th, 2014 I gave this talk (in English) at [Avenue Code](http://www.avenuecode.com), about the fundamentals on client-side apps, REST, JSON, MVC and how to blend it all together in a mature JavaScript SPA library from the MV* family, Backbone.js.
 <br/>
 #### Video
+[YouTube video link](//www.youtube.com/embed/8ZzqMFAU_Kw)
 <iframe width="560" height="315" src="//www.youtube.com/embed/8ZzqMFAU_Kw" frameborder="0" allowfullscreen="allowfullscreen"> </iframe><br/>
 #### Slide deck
+[Slide deck link](//slid.es/avenuecode/boosting-the-client-side-with-backbone-js)
 <iframe src="//slid.es/avenuecode/boosting-the-client-side-with-backbone-js/embed" width="560" height="420" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen"> </iframe><br/>
 #### Prerequisites
 
@@ -24,7 +26,7 @@ On January 8th, 2014 I gave this talk (in English) at Avenue Code, about the fun
 * [The Anatomy of Backbone.js - Codeschool](http://backbone.codeschool.com)
 * [How Backbone works behind the scenes](http://backbonejs.org/docs/backbone.html)
 * [API-First - Design apps from the API](http://www.api-first.com/)
-* [Tasker project](https://github.com/tiagorg/tasker)
+* [Tasker project repo](https://github.com/tiagorg/tasker)
 
 #### How to organize your app
 

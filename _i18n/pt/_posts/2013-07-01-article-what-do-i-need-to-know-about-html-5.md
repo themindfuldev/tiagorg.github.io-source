@@ -6,7 +6,7 @@ tags: [article, html5]
 ---
 {% include JB/setup %}
 
-Em Julho de 2013 eu publiquei um artigo (em português) na Java Magazine 116, sobre o HTML 5 como uma alternativa ao desenvolvimento baseado exclusivamente no server-side. Esta tecnologia introduz e padroniza diversas funcionalidades inovadoras no navegador ou dispositivo móvel cliente, de forma segura, portável e nativa.
+Em Julho de 2013 eu publiquei um artigo (em português) na [Java Magazine 116](http://www.devmedia.com.br/revista-java-magazine-116/28258), sobre o HTML 5 como uma alternativa ao desenvolvimento baseado exclusivamente no server-side. Esta tecnologia introduz e padroniza diversas funcionalidades inovadoras no navegador ou dispositivo móvel cliente, de forma segura, portável e nativa.
 
 [Artigo O que preciso saber sobre HTML 5? - DevMedia](http://www.devmedia.com.br/o-que-preciso-saber-sobre-html-5-revista-java-magazine-116/28078)
 

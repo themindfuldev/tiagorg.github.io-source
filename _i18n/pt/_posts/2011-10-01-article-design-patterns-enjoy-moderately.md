@@ -6,7 +6,7 @@ tags: [article, java, design patterns]
 ---
 {% include JB/setup %}
 
-Em Outubro de 2011 eu publiquei um artigo (em português) na capa da Java Magazine 98, sobre princípios, discussões e reflexões quanto a utilização de padrões de projeto, para ajudar ao leitor a desenvolver senso crítico sobre os mesmos. Assim, o leitor poderá extrair de si mesmo o conhecimento para a aplicação de padrões de projeto com moderação.
+Em Outubro de 2011 eu publiquei um artigo (em português) na capa da [Java Magazine 98](http://www.devmedia.com.br/revista-java-magazine-98/23078), sobre princípios, discussões e reflexões quanto a utilização de padrões de projeto, para ajudar ao leitor a desenvolver senso crítico sobre os mesmos. Assim, o leitor poderá extrair de si mesmo o conhecimento para a aplicação de padrões de projeto com moderação.
 
 [Artigo Padrões de projeto, aprecie com moderação - DevMedia](http://www.devmedia.com.br/padroes-de-projeto-revista-java-magazine-98/23072)
 

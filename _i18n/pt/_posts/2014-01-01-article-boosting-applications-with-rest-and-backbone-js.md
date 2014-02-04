@@ -6,7 +6,7 @@ tags: [article, javascript, backbone.js]
 ---
 {% include JB/setup %}
 
-Em Janeiro de 2014 eu publiquei um artigo (em português) na Java Magazine 123, sobre aplicações inteligentes no client-side usando REST e Backbone.js, comparando com outros tipos de aplicações web.
+Em Janeiro de 2014 eu publiquei um artigo (em português) na [Java Magazine 123](http://www.devmedia.com.br/revista-java-magazine-123/29893), sobre aplicações inteligentes no client-side usando REST e Backbone.js, comparando com outros tipos de aplicações web.
 
 [Artigo Turbinando aplicações com REST e Backbone.js - DevMedia](http://www.devmedia.com.br/turbinando-aplicacoes-com-rest-e-backbone-js/29692)
 

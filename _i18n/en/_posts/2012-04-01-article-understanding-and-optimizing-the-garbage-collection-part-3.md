@@ -6,7 +6,7 @@ tags: [article, java, garbage collection]
 ---
 {% include JB/setup %}
 
-In April, 2012 I published an article (in Portuguese) in Java Magazine #104, about common problems in Java code which ignore how Garbage Collection operates, how to write code to optimize this process and how to analyse the heap memory status in runtime.
+In April, 2012 I published an article (in Portuguese) in [Java Magazine #104](http://www.devmedia.com.br/revista-java-magazine-104/24723), about common problems in Java code which ignore how Garbage Collection operates, how to write code to optimize this process and how to analyse the heap memory status in runtime.
 
 [Article Understanding and optimizing the Garbage Collection - Part 3 - DevMedia](http://www.devmedia.com.br/entendendo-e-otimizando-o-garbage-collection-revista-java-magazine-104-parte-3/24725)
 

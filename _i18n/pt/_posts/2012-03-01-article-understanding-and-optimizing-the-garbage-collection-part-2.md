@@ -6,7 +6,7 @@ tags: [article, java, garbage collection]
 ---
 {% include JB/setup %}
 
-Em Março de 2012 eu publiquei um artigo (em português) na Java Magazine 103, sobre o funcionamento dos collectors das JVMs Oracle JRockit (utilizada pelo servidor de aplicações Java EE WebLogic), IBM Virtual Machine for Java (utilizada pelo servidor de aplicações Java EE WebSphere), as que implementam a JSR-1 (também conhecida como Real-Time Specification for Java ou RTSJ) e Dalvik (utilizada por dispositivos Android).
+Em Março de 2012 eu publiquei um artigo (em português) na [Java Magazine 103](http://www.devmedia.com.br/revista-java-magazine-103/24382), sobre o funcionamento dos collectors das JVMs Oracle JRockit (utilizada pelo servidor de aplicações Java EE WebLogic), IBM Virtual Machine for Java (utilizada pelo servidor de aplicações Java EE WebSphere), as que implementam a JSR-1 (também conhecida como Real-Time Specification for Java ou RTSJ) e Dalvik (utilizada por dispositivos Android).
 
 [Artigo Entendendo e otimizando o Garbage Collection - Parte 2 - DevMedia](http://www.devmedia.com.br/entendendo-e-otimizando-o-garbage-collection-revista-java-magazine-103-parte-2/24387)
 

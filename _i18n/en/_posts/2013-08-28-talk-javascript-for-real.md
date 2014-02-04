@@ -6,11 +6,13 @@ tags: [talks, javascript]
 ---
 {% include JB/setup %}
 
-On August 13th and 28th, 2013 I gave this talk (in English) at Avenue Code, focusing on developers coming from languages such as Java, explaining how to code in JavaScript for real and start the good practices right now.
+On August 13th and 28th, 2013 I gave this talk (in English) at [Avenue Code](http://www.avenuecode.com), focusing on developers coming from languages such as Java, explaining how to code in JavaScript for real and start the good practices right now.
 <br/>
 #### Part 1
+[YouTube video link](//www.youtube.com/embed/kV5uEoyJ-pQ)
 <iframe width="560" height="315" src="//www.youtube.com/embed/kV5uEoyJ-pQ" frameborder="0" allowfullscreen="allowfullscreen"> </iframe><br/>
 #### Part 2
+[YouTube video link](//www.youtube.com/embed/cSYSQyHwQ5o)
 <iframe width="560" height="315" src="//www.youtube.com/embed/cSYSQyHwQ5o" frameborder="0" allowfullscreen="allowfullscreen"> </iframe><br/>
 #### Prerequisites
 

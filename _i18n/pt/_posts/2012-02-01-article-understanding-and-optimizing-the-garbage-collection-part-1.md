@@ -6,7 +6,7 @@ tags: [article, java, garbage collection]
 ---
 {% include JB/setup %}
 
-Em Fevereiro de 2012 eu publiquei um artigo (em português) na Java Magazine 102, sobre o processo de Garbage Collection em Java, apresentando o funcionamento dos collectors da JVM HotSpot 6 e 7 e como otimizar seu comportamento por meio de opções da JVM.
+Em Fevereiro de 2012 eu publiquei um artigo (em português) na [Java Magazine 102](http://www.devmedia.com.br/revista-java-magazine-102/24079), sobre o processo de Garbage Collection em Java, apresentando o funcionamento dos collectors da JVM HotSpot 6 e 7 e como otimizar seu comportamento por meio de opções da JVM.
 
 [Artigo Entendendo e otimizando o Garbage Collection - Parte 1 - DevMedia](http://www.devmedia.com.br/garbage-collection-entendendo-e-otimizando-revista-java-magazine-102-parte-1/24082)
 
