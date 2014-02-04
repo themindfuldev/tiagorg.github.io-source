@@ -11,19 +11,19 @@ In October, 2011 I published an article (in Portuguese) in the cover of Java Mag
 [Article Design Patterns, enjoy moderately - DevMedia](http://www.devmedia.com.br/padroes-de-projeto-revista-java-magazine-98/23072)
 
 #### Summary
-O artigo apresenta reflexões a respeito da utilização de padrões de projeto, e descreve algumas causas comuns da má utilização dos mesmos, além de alguns exemplos de má implementação dos mesmos. Em seguida, mostra os princípios GRASP e sua relação com os padrões de projeto, para orientar o desenvolvedor a utilizá-los adequadamente. Ao final, disponibiliza perguntas para avaliar a implementação de um padrão de projeto e considerações para o leitor desenvolver senso crítico.
+The article presents reflections about using design patterns, and shows some common causes for their misuse, besides some bad implementation examples. Next, introduces the GRASP principles and its relation with the design patterns, in order to guide the developer to use them adequately. Lastly, raises some questions to evaluate the implementation of a design pattern and considerations for the reader to develop critical sense.
 
 #### When is the subject useful
-O tema é útil por alertar ao desenvolvedor sobre a utilização adequada de padrões de projeto, que são soluções para determinados problemas, mas podem ser problemas para determinadas soluções. É importante ao desenvolvedor saber julgar a utilização de um padrão de projeto em um determinado contexto, avaliando sua aplicabilidade e consequências, buscando uma solução ótima.
+The subject is useful for alerting the developer about the proper use of design patterns, which are solutions for certain problems, but could be problems for certain solutions. It is important to the developer know how to judge the usage of a design pattern in a particular context, evaluating its applicability and consequences, aiming for a optimal solution.
 
 #### Links
- * [Core J2EE Pattern Catalog](http://corej2eepatterns.com) Catálogo de padrões de projeto J2EE.
- * [Singletonitis](http://antonioshome.net/blog/2006/20060906-1.php) Antonio Vieiro descreve a doença Singletonite em seu artigo “Singletonitis”.
- * [Over Use Of Patterns](http://c2.com/cgi/wiki?OverUseOfPatterns) Catálogo de anti-padrões relacionados com o abuso de padrões de projeto.
- * [Integrating design patterns "just before they become useful"](http://as3dp.com/2009/09/03/integrating-design-patterns-just-before-they-become-useful) Chandima Cumaranatunge explica como integrar padrões de projeto imediatamente antes de eles se tornarem úteis.
+ * [Core J2EE Pattern Catalog](http://corej2eepatterns.com) J2EE design patterns catalog.
+ * [Singletonitis](http://antonioshome.net/blog/2006/20060906-1.php) Antonio Vieiro describes the disease "Singletonitis”.
+ * [Over Use Of Patterns](http://c2.com/cgi/wiki?OverUseOfPatterns) Anti-patterns catalog related with the design patterns abuse.
+ * [Integrating design patterns "just before they become useful"](http://as3dp.com/2009/09/03/integrating-design-patterns-just-before-they-become-useful) Chandima Cumaranatunge explains how to integrate design pattern just before they become useful.
 
 #### Books
- * [Applying UML and Patterns - Craig Larman](http://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062) É um livro referência quanto aos princípios GRASP, expondo-os de maneira clara e consistente.
- * [Design Patterns: Elements of Reusable Object-Oriented Software - Gang of Four](http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) É o catálogo oficial de padrões de projeto GoF.
- * [Refactoring: Improving the Design of Existing Code - Martin Fowler](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672) É um livro sobre o processo de refatoração ágil. Discute muito sobre problemas causados por padrões de projeto.
- * [Head First Design Patterns - Elizabeth Freeman](http://www.amazon.com/First-Design-Patterns-Elisabeth-Freeman/dp/0596007124) É um livro muito didático sobre padrões de projeto, apresenta várias reflexões interessantes.
+ * [Applying UML and Patterns - Craig Larman](http://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062) A reference book about the GRASP principles, exposing them in a clear and consistent way.
+ * [Design Patterns: Elements of Reusable Object-Oriented Software - Gang of Four](http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) The official catalog of GoF design patterns.
+ * [Refactoring: Improving the Design of Existing Code - Martin Fowler](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672) A book about the agile refactoring process. Discuss much about problems caused by design patterns.
+ * [Head First Design Patterns - Elizabeth Freeman](http://www.amazon.com/First-Design-Patterns-Elisabeth-Freeman/dp/0596007124) A very didactic book about design patterns, presents many interesting reflections.
