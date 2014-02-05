@@ -39,3 +39,6 @@ titles:
     design-patterns-enjoy-moderately: Article - Design Patterns, enjoy moderately [pt]
   projects:
     tasker: Project - Tasker
+
+protips:
+  hoisting: Every Javascript developer should be aware of the Hoisting concept, which can potentially produce side-effects if ignored. Hoisting is about how Javascript deals with scoping for var declarations.
