@@ -37,7 +37,7 @@ module Jekyll
       if dir == ''
         posts = read_things("_i18n/#{self.config['lang']}","_posts", Post)
         posts.each do |post|
-          post.categories = []
+          post.categories = [post.tags.shift]
           if post.date != ''
             if post.published && (self.future || post.date <= self.time)
               aggregate_post_info(post)
