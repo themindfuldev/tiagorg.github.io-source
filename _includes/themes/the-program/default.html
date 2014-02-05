@@ -49,6 +49,7 @@
 	<footer class="the-footer">
 		<div class="unit-foot">
 			<div class="unit-inner unit-foot-inner">
+				<a href="https://github.com/tiagorg/tiagorg.github.io-source"><img class="fork-me" src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>
 				<h4>{% t footer.change-language %}</h4>
 				<p class="flags">
 					<a href="{{ site.baseurl_root }}pt{{ page.url }}"><img src="{{ ASSET_PATH }}/img/flag-br.png"></a>
@@ -56,6 +57,11 @@
 				</p>
 				<h4>{% t footer.github-commits %}</h4>
 				<ul id="github-commits" class="github-commits"> </ul>
+				<h4>{% t footer.resources %}</h4>
+				<ul>
+					<li><a href="{% if site.lang == "pt" %}/pt{% endif %}/archive.html">{% t titles.archive %}</a></li>
+					<li><a href="{% if site.lang == "pt" %}/pt{% endif %}/tags.html">{% t titles.tags %}</a></li>
+				</ul>
 				<p class="licence">
 					{% t footer.theme %}: <a href="http://layouts-the.me">the_minimum</a> {% t footer.based-on %} <a href="http://jekyllbootstrap.com/">Jekyll-bootstrap</a>.<br>
 					{% t footer.powered-by %} <a href="https://github.com/mojombo/jekyll">Jekyll</a>.

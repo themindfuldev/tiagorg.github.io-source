@@ -964,6 +964,12 @@ pre {
 .the-footer .license p {
   margin-bottom: 0;
 }
+.the-footer img.fork-me {
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: 0;
+}
 .the-header .unit-head .nav-global li.logo {
   background-color: #1a1a1a;
   background-color: rgba(21, 25, 25, 0.8);
@@ -997,6 +1003,7 @@ pre {
   padding: 26px;
 }
 .the-footer {
+  position: relative;
   background-color: #1a1a1a;
   background-color: rgba(21, 25, 25, 0.8);
   color: #fafafa;
@@ -1135,7 +1142,6 @@ pre {
   .the-footer {
     background-color: transparent;
     color: #2d2d2d;
-    position: relative;
     top: auto;
     display: block;
     float: left;

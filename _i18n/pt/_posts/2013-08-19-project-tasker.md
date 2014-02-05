@@ -2,7 +2,7 @@
 layout: post
 title: titles.projects.tasker
 description: "Um projeto de Kanban ágil utilizando Backbone.js e Handlebars.js no client-side e Play! sobre Java no server-side."
-tags: [projects, javascript, backbone.js, play]
+tags: [project, javascript, backbone.js, play]
 ---
 {% include JB/setup %}
 

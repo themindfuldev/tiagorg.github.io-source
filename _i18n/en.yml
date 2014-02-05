@@ -14,6 +14,7 @@ footer:
   based-on: based on
   powered-by: Powered by
   github-commits: Recent Github commits
+  resources: Resources
 
 index:
   main: Tiago Romero Garcia, Cintia's husband, Sherlock's pack leader, Technical Manager and Front-end Tech Lead, 28 years.
@@ -37,4 +38,4 @@ titles:
     understanding-and-optimizing-the-garbage-collection-part-3: Article - Understanding and optimizing the Garbage Collection - Part 3 [pt]
     design-patterns-enjoy-moderately: Article - Design Patterns, enjoy moderately [pt]
   projects:
-    tasker: Tasker
+    tasker: Project - Tasker

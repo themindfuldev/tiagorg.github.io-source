@@ -14,6 +14,7 @@ footer:
   based-on: baseado em
   powered-by: Fornecido por
   github-commits: Commits recentes no Github
+  resources: Recursos
 
 index:
   main: Tiago Romero Garcia, marido da Cíntia, líder da matilha do Sherlock, Gerente Técnico e Líder Técnico de front-end, 28 anos.
@@ -37,4 +38,4 @@ titles:
     understanding-and-optimizing-the-garbage-collection-part-3: Artigo - Entendendo e otimizando o Garbage Collection - Parte 3 [pt]
     design-patterns-enjoy-moderately: Artigo - Padrões de Projeto, aprecie com moderação [pt]
   projects:
-    tasker: Tasker
+    tasker: Projeto - Tasker
