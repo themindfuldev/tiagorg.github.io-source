@@ -11,7 +11,11 @@ Usage:
 <div class="post-list">
   {% for post in posts_list limit:posts_limit %}
     <div class="post-item">
-      <a href="{% if site.lang == "pt" %}/pt{% endif %}{{ post.url }}">
+      {% if post.external-url %}
+        <a href="{{ post.external-url }}" target="_blank">
+      {% else %}
+        <a href="{% if site.lang == "pt" %}/pt{% endif %}{{ post.url }}">
+      {% endif %}
         <h4>{% t post.title %}</h4>
         <span class="date">
           {% if site.lang == "en" %}

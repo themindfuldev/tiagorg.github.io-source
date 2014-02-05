@@ -4,23 +4,5 @@ title: header.pro-tips
 ---
 {% include JB/setup %}
 
-<div class="post-list">
-  <div class="post-item">
-    <a href="https://coderwall.com/p/jj635w">
-      <h4>Javascript Hoisting</h4>
-      <span class="date">
-        {% if site.lang == "en" %}
-          <span class="month"><abbr>Feb</abbr></span>
-          <span class="day">04</span>,
-          <span class="year">2014</span>.
-        {% else if site.lang == "pt" %}
-          <span class="day">04</span>/<span class="month"><abbr>01</abbr></span>/<span class="year">2014</span>
-        {% endif %}
-      </span>
-      <span class="description">
-        {% t protips.hoisting %}
-      </span>
-    </a>
-  </div>
-  <hr/>
-</div>
+{% assign posts_list = site.categories['pro-tips'] %}
+{% include JB/posts_list %}
