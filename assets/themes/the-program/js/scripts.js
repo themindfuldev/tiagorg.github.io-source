@@ -121,6 +121,10 @@ var main = (function() {
     }
   }
 
+  function fixTargetLinks() {
+    $('div.featured-content a').attr('target','_blank');
+  }
+
   return {
     initialize: function() {
       setupTwitter(document, 'script');
@@ -132,6 +136,7 @@ var main = (function() {
       setupScrollTop();
       setupGithubCommits();
       setupCoderWall();
+      fixTargetLinks();
     }
   }
 })();

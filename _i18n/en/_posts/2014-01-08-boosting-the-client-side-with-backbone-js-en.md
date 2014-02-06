@@ -9,7 +9,7 @@ tags: [talk, javascript, backbone.js]
 On January 8th, 2014 I gave this talk (in English) at [Avenue Code](http://www.avenuecode.com), about the fundamentals on client-side apps, REST, JSON, MVC and how to blend it all together in a mature JavaScript SPA library from the MV* family, Backbone.js.
 <br/>
 #### Video
-[YouTube video link](//www.youtube.com/embed/8ZzqMFAU_Kw)
+[YouTube video link](//www.youtube.com/watch?v=8ZzqMFAU_Kw)
 <iframe width="560" height="315" src="//www.youtube.com/embed/8ZzqMFAU_Kw" frameborder="0" allowfullscreen="allowfullscreen"> </iframe><br/>
 #### Slide deck
 [Slide deck link](//slid.es/avenuecode/boosting-the-client-side-with-backbone-js)
