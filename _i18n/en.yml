@@ -10,8 +10,7 @@ content:
 
 footer:
   change-language: Change your language
-  theme: Theme
-  based-on: based on
+  theme: Theme based on
   powered-by: Powered by
   github-commits: Recent Github commits
   resources: Resources
