@@ -135,7 +135,7 @@ var main = (function() {
   function setupRecaptcha() {
     var contactFormHost = 'http://tgarcia-contact-form.herokuapp.com/',
         form = $('#contact-form'),
-        notice = $('#notice');
+        notice = form.find('#notice');
 
     if (form.length) {
       showRecaptcha('recaptcha_widget');
