@@ -152,6 +152,7 @@ var main = (function() {
             switch (response.message) {
               case 'success':
                 form.fadeOut(function() {
+                  $('p.gotop a').click();
                   form.html('<h4>' + form.data('success') + '</h4>').fadeIn();
                 });
                 break;
