@@ -125,6 +125,54 @@ var main = (function() {
     $('div.featured-content a').attr('target','_blank');
   }
 
+  function showRecaptcha(element) {
+    Recaptcha.create('6LcpVu4SAAAAAFQ3BPSwEX4YQz3McmlMPW0pQhnc', element, {
+      theme: 'custom',
+      //theme: 'white',
+      //callback: Recaptcha.focus_response_field
+      custom_theme_widget: 'recaptcha_widget'
+    });
+  }
+
+  function setupRecaptcha() {
+    var contactFormHost = 'http://tgarcia-contact-form.herokuapp.com/',
+        form = $('#contact-form');
+
+    if (form.length) {
+      showRecaptcha('recaptcha');
+
+      form.submit(function(ev){
+        ev.preventDefault();
+
+        $.ajax({
+          type: 'POST',
+          url: contactFormHost + 'send_email',
+          data: form.serialize(),
+          dataType: 'json',
+          success: function(response) {
+            switch (response.message) {
+              case 'success':
+                form.append("<h3>Message successfully sent.</h3>").hide().fadeIn(1500);
+                break;
+
+              case 'failure_captcha':
+                showRecaptcha('recaptcha');
+                $('#notice').html("Captcha failed!").hide().fadeIn(1500);
+                break;
+
+              case 'failure_email':
+                form.append("<h2>Error sending the message</h2>").hide().fadeIn(1500);
+            }
+          },
+          error: function(xhr, ajaxOptions, thrownError) {
+            form.html("<div id='message'></div>");
+            $('#message').html("<h2>Error sending the message</h2>").hide().fadeIn(1500);
+          }
+        });
+      });
+    }
+  }
+
   return {
     initialize: function() {
       setupTwitter(document, 'script');
@@ -137,6 +185,7 @@ var main = (function() {
       setupGithubCommits();
       setupCoderWall();
       fixTargetLinks();
+      setupRecaptcha();
     }
   }
 })();

@@ -124,3 +124,8 @@ include:
 - .nojekyll
 
 languages: ["en", "pt"]
+
+assets:
+  compress:
+    js:   uglifier
+    css:  less

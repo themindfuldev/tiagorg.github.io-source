@@ -1,0 +1,51 @@
+---
+layout: page
+title: titles.contact
+---
+{% include JB/setup %}
+
+<form id="contact-form" class="contact-form" method="post">
+
+  <label for="name">Name</label>
+  <input type="text" name="name" class="field" /><br/>
+
+  <label for="email">Email</label>
+  <input type="email" name="email" class="field" /><br/>
+
+  <label for="subject">Subject</label>
+  <input type="text" name="subject" class="field" /><br/>
+
+  <label for="message">Message</label>
+  <textarea name="message" ></textarea><br/>
+
+  <label for="recaptcha">Captcha</label>
+  <span id="recaptcha" class="recaptcha"></span>
+
+  <!--<div id="recaptcha" class="recaptcha">
+     <div id="recaptcha_widget" style="display:none">
+
+       <div id="recaptcha_image"></div>
+       <div class="recaptcha_only_if_incorrect_sol" style="color:red">Incorrect please try again</div>
+
+       <span class="recaptcha_only_if_image">Enter the words above:</span>
+       <span class="recaptcha_only_if_audio">Enter the numbers you hear:</span>
+
+       <input type="text" id="recaptcha_response_field" name="recaptcha_response_field" />
+
+       <div><a href="javascript:Recaptcha.reload()">Get another CAPTCHA</a></div>
+       <div class="recaptcha_only_if_image"><a href="javascript:Recaptcha.switch_type('audio')">Get an audio CAPTCHA</a></div>
+       <div class="recaptcha_only_if_audio"><a href="javascript:Recaptcha.switch_type('image')">Get an image CAPTCHA</a></div>
+
+       <div><a href="javascript:Recaptcha.showhelp()">Help</a></div>
+
+    </div>
+  </div>-->
+  <div id="notice"></div>
+
+  <button type="submit">Send</button>
+</form>
+
+<!--<script type="text/javascript"
+    src="http://www.google.com/recaptcha/api/challenge?k=6Lc8Ve4SAAAAAI02zsc3iUhPi-wBI5WkepCp_80M">
+ </script>-->
+<script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
