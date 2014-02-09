@@ -20,6 +20,16 @@ index:
   coderwall-badges: Coderwall badges
   recent-activity: Recent activity
 
+contact:
+  name: Name
+  email: E-mail
+  subject: Subject
+  message: Message
+  captcha: Captcha
+  words: Enter the words above
+  numbers: Enter the numbers you hear
+  send: Send
+
 titles:
   about-me: About me
   archive: Archive

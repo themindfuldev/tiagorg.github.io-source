@@ -128,8 +128,6 @@ var main = (function() {
   function showRecaptcha(element) {
     Recaptcha.create('6LcpVu4SAAAAAFQ3BPSwEX4YQz3McmlMPW0pQhnc', element, {
       theme: 'custom',
-      //theme: 'white',
-      //callback: Recaptcha.focus_response_field
       custom_theme_widget: 'recaptcha_widget'
     });
   }
@@ -139,7 +137,7 @@ var main = (function() {
         form = $('#contact-form');
 
     if (form.length) {
-      showRecaptcha('recaptcha');
+      showRecaptcha('recaptcha_widget');
 
       form.submit(function(ev){
         ev.preventDefault();
@@ -156,7 +154,7 @@ var main = (function() {
                 break;
 
               case 'failure_captcha':
-                showRecaptcha('recaptcha');
+                showRecaptcha('recaptcha_widget');
                 $('#notice').html("Captcha failed!").hide().fadeIn(1500);
                 break;
 

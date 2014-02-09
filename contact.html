@@ -6,43 +6,41 @@ title: titles.contact
 
 <form id="contact-form" class="contact-form" method="post">
 
-  <label for="name">Name</label>
-  <input type="text" name="name" class="field" /><br/>
+  <label for="name">{% t contact.name %}</label>
+  <input id="name" type="text" name="name" class="field" required autofocus /><br/>
 
-  <label for="email">Email</label>
-  <input type="email" name="email" class="field" /><br/>
+  <label for="email">{% t contact.email %}</label>
+  <input id="email" type="email" name="email" class="field" required /><br/>
 
-  <label for="subject">Subject</label>
-  <input type="text" name="subject" class="field" /><br/>
+  <label for="subject">{% t contact.subject %}</label>
+  <input id="subject" type="text" name="subject" class="field" required /><br/>
 
-  <label for="message">Message</label>
-  <textarea name="message" ></textarea><br/>
+  <label for="message">{% t contact.message %}</label>
+  <textarea id="message" name="message" required ></textarea><br/>
 
-  <label for="recaptcha">Captcha</label>
-  <span id="recaptcha" class="recaptcha"></span>
+  <label for="recaptcha_response_field">{% t contact.captcha %}</label>
+  <div id="recaptcha_widget" class="recaptcha">
 
-  <!--<div id="recaptcha" class="recaptcha">
-     <div id="recaptcha_widget" style="display:none">
-
-       <div id="recaptcha_image"></div>
-       <div class="recaptcha_only_if_incorrect_sol" style="color:red">Incorrect please try again</div>
-
-       <span class="recaptcha_only_if_image">Enter the words above:</span>
-       <span class="recaptcha_only_if_audio">Enter the numbers you hear:</span>
-
-       <input type="text" id="recaptcha_response_field" name="recaptcha_response_field" />
-
-       <div><a href="javascript:Recaptcha.reload()">Get another CAPTCHA</a></div>
-       <div class="recaptcha_only_if_image"><a href="javascript:Recaptcha.switch_type('audio')">Get an audio CAPTCHA</a></div>
-       <div class="recaptcha_only_if_audio"><a href="javascript:Recaptcha.switch_type('image')">Get an image CAPTCHA</a></div>
-
-       <div><a href="javascript:Recaptcha.showhelp()">Help</a></div>
-
+    <div class="image">
+      <div id="recaptcha_image"></div>
     </div>
-  </div>-->
+
+    <div class="headline recaptcha_only_if_incorrect_sol">Incorrect please try again</div>
+    <div class="headline recaptcha_only_if_image">{% t contact.words %}:</div>
+    <div class="headline recaptcha_only_if_audio">{% t contact.numbers %}:</div>
+
+    <input type="text" id="recaptcha_response_field" name="recaptcha_response_field" required />
+
+    <span><a href="javascript:Recaptcha.reload()"><i class="fa fa-refresh"></i></a></span>
+    <span class="recaptcha_only_if_image"><a href="javascript:Recaptcha.switch_type('audio')"><i class="fa fa-volume-up"></i></a></span>
+    <span class="recaptcha_only_if_audio"><a href="javascript:Recaptcha.switch_type('image')"><i class="fa fa-font"></i></a></span>
+    <span><a href="javascript:Recaptcha.showhelp()"><i class="fa fa-question-circle"></i></a></span>
+
+  </div>
+
   <div id="notice"></div>
 
-  <button type="submit">Send</button>
+  <button type="submit">{% t contact.send %}</button>
 </form>
 
 <!--<script type="text/javascript"

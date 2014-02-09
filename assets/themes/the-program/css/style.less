@@ -313,17 +313,13 @@ pre {
 				}
 			}
 			input.field, textarea {
-				min-width: 318px;
+				min-width: 330px;
 			}
 			input[name=subject], textarea {
-				width: 68.5%;
+				width: 73%;
 			}
 			textarea {
 				height: 150px;
-			}
-			.recaptcha {
-				padding: 0;
-				display: inline-block;
 			}
 			button {
 				border: 0;
@@ -334,6 +330,39 @@ pre {
 				&:hover {
 					background-color: darken(@accent-color, 10%);
 					color: darken(#fff, 10%);
+				}
+			}
+			.recaptcha {
+				padding: 0;
+				display: inline-block;
+
+				div.image {
+					-webkit-border-radius: 5px 5px 0 0;
+					-moz-border-radius: 5px 5px 0 0;
+					border-radius: 5px 5px 0 0;
+					padding: 10px;
+					background-color: #fff;
+					width: 320px;
+
+					br {
+						display: none;
+					}
+					embed, span {
+						float: left;
+						clear: both;
+						a {
+							cursor: pointer;
+							font-size: 0.9em;
+						}
+					}
+				}
+
+				div.headline {
+					padding: 5px 5px 0 10px;
+				}
+
+				input[type=text] {
+					margin: 10px;
 				}
 			}
 		}

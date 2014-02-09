@@ -888,18 +888,14 @@ pre {
 }
 .unit-article .contact-form input.field,
 .unit-article .contact-form textarea {
-  min-width: 318px;
+  min-width: 330px;
 }
 .unit-article .contact-form input[name=subject],
 .unit-article .contact-form textarea {
-  width: 68.5%;
+  width: 73%;
 }
 .unit-article .contact-form textarea {
   height: 150px;
-}
-.unit-article .contact-form .recaptcha {
-  padding: 0;
-  display: inline-block;
 }
 .unit-article .contact-form button {
   border: 0;
@@ -910,6 +906,37 @@ pre {
 .unit-article .contact-form button:hover {
   background-color: #668944;
   color: #e6e6e6;
+}
+.unit-article .contact-form .recaptcha {
+  padding: 0;
+  display: inline-block;
+}
+.unit-article .contact-form .recaptcha div.image {
+  -webkit-border-radius: 5px 5px 0 0;
+  -moz-border-radius: 5px 5px 0 0;
+  border-radius: 5px 5px 0 0;
+  padding: 10px;
+  background-color: #fff;
+  width: 320px;
+}
+.unit-article .contact-form .recaptcha div.image br {
+  display: none;
+}
+.unit-article .contact-form .recaptcha div.image embed,
+.unit-article .contact-form .recaptcha div.image span {
+  float: left;
+  clear: both;
+}
+.unit-article .contact-form .recaptcha div.image embed a,
+.unit-article .contact-form .recaptcha div.image span a {
+  cursor: pointer;
+  font-size: 0.9em;
+}
+.unit-article .contact-form .recaptcha div.headline {
+  padding: 5px 5px 0 10px;
+}
+.unit-article .contact-form .recaptcha input[type=text] {
+  margin: 10px;
 }
 /* post & page */
 .layout-page .tag_box {
