@@ -126,7 +126,7 @@ var main = (function() {
   }
 
   function showRecaptcha(element) {
-    Recaptcha.create('6LcpVu4SAAAAAFQ3BPSwEX4YQz3McmlMPW0pQhnc', element, {
+    Recaptcha.create('6Lf4Yu4SAAAAAHxlo-Ly7IPlRo6zQtfBKW9crnoI', element, {
       theme: 'custom',
       custom_theme_widget: 'recaptcha_widget'
     });
