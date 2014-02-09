@@ -29,10 +29,10 @@ title: titles.contact
 
     <input type="text" id="recaptcha_response_field" name="recaptcha_response_field" required />
 
-    <span><a href="javascript:Recaptcha.reload()"><i class="fa fa-refresh"></i></a></span>
-    <span class="recaptcha_only_if_image"><a href="javascript:Recaptcha.switch_type('audio')"><i class="fa fa-volume-up"></i></a></span>
-    <span class="recaptcha_only_if_audio"><a href="javascript:Recaptcha.switch_type('image')"><i class="fa fa-font"></i></a></span>
-    <span><a href="javascript:Recaptcha.showhelp()"><i class="fa fa-question-circle"></i></a></span>
+    <span class="recaptcha_icon"><a href="javascript:Recaptcha.reload()"><i class="fa fa-refresh"></i></a></span>
+    <span class="recaptcha_icon recaptcha_only_if_image"><a href="javascript:Recaptcha.switch_type('audio')"><i class="fa fa-volume-up"></i></a></span>
+    <span class="recaptcha_icon recaptcha_only_if_audio"><a href="javascript:Recaptcha.switch_type('image')"><i class="fa fa-font"></i></a></span>
+    <span class="recaptcha_icon"><a href="javascript:Recaptcha.showhelp()"><i class="fa fa-question-circle"></i></a></span>
   </div><br/>
   <div id="notice" class="notice" data-captcha-failed="{% t contact.captcha-failed %}" data-error="{% t contact.error %}"></div>
   <button type="submit">{% t contact.send %}</button>

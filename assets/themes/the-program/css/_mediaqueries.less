@@ -94,6 +94,45 @@
 	Smartphone
 */
 
+@media only screen and (max-width: 390px) {
+	.unit-article {
+		.entry-content {
+			.contact-form {
+				input.field, textarea {
+					width: 95%;
+					min-width: 95%;
+				}
+
+				.recaptcha {
+					width: 92%;
+					padding-right: 20px;
+					.image {
+						width: 100%;
+						#recaptcha_image {
+							width: 100% !important;
+							img {
+								width: 100%;
+							}
+						}
+					}
+					input[type=text] {
+						display: block;
+						margin-bottom: 0;
+						min-width: 95%;
+					}
+					span.recaptcha_icon {
+						margin: 0 0 5px 10px;
+						display: inline-block;
+					}
+					span.recaptcha_icon ~ span.recaptcha_icon {
+						margin-left: 0px;
+					}
+				}
+			}
+		}
+	}
+}
+
 @media only screen and (min-width: 320px) and (max-width: 767px) {
 	img { max-width: 100%; }
 	.the-header {
