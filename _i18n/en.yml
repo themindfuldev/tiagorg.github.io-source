@@ -29,6 +29,9 @@ contact:
   words: Enter the words above
   numbers: Enter the numbers you hear
   send: Send
+  captcha-failed: Incorrect captcha!
+  error: There was an error sending the message, please try again.
+  success: Message successfully sent!
 
 titles:
   about-me: About me

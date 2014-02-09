@@ -29,6 +29,9 @@ contact:
   words: Digite as palavras acima
   numbers: Digite os números escutados
   send: Enviar
+  captcha-failed: Captcha incorreto!
+  error: Houve um erro ao enviar a mensagem, gentileza tentar novamente.
+  success: Mensagem enviada com sucesso!
 
 titles:
   about-me: Sobre mim

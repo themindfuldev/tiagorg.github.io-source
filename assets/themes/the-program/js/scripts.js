@@ -134,7 +134,8 @@ var main = (function() {
 
   function setupRecaptcha() {
     var contactFormHost = 'http://tgarcia-contact-form.herokuapp.com/',
-        form = $('#contact-form');
+        form = $('#contact-form'),
+        notice = $('#notice');
 
     if (form.length) {
       showRecaptcha('recaptcha_widget');
@@ -150,21 +151,22 @@ var main = (function() {
           success: function(response) {
             switch (response.message) {
               case 'success':
-                form.append("<h3>Message successfully sent.</h3>").hide().fadeIn(1500);
+                form.fadeOut(function() {
+                  form.html('<h4>' + form.data('success') + '</h4>').fadeIn();
+                });
                 break;
 
               case 'failure_captcha':
                 showRecaptcha('recaptcha_widget');
-                $('#notice').html("Captcha failed!").hide().fadeIn(1500);
+                notice.text(notice.data('captcha-failed')).fadeIn();
                 break;
 
               case 'failure_email':
-                form.append("<h2>Error sending the message</h2>").hide().fadeIn(1500);
+                notice.text(notice.data('error')).fadeIn();
             }
           },
           error: function(xhr, ajaxOptions, thrownError) {
-            form.html("<div id='message'></div>");
-            $('#message').html("<h2>Error sending the message</h2>").hide().fadeIn(1500);
+            notice.text(notice.data('error')).fadeIn();
           }
         });
       });

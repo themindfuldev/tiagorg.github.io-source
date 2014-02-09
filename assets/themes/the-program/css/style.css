@@ -863,6 +863,10 @@ pre {
   margin-left: auto;
   margin-right: auto;
 }
+.unit-article .contact-form h4 {
+  color: #668944;
+  margin-left: 20px;
+}
 .unit-article .contact-form label {
   width: 100px;
   margin: 5px 0;
@@ -902,10 +906,22 @@ pre {
   background-color: #7fab55;
   padding: 8px 20px;
   color: #fff;
+  margin-top: 20px;
 }
 .unit-article .contact-form button:hover {
   background-color: #668944;
   color: #e6e6e6;
+}
+.unit-article .contact-form .notice {
+  display: none;
+  background-color: #f2dede;
+  border: 1px solid #ebccd1;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  padding: 10px 15px;
+  color: #a94442;
+  margin-top: 15px;
 }
 .unit-article .contact-form .recaptcha {
   padding: 0;

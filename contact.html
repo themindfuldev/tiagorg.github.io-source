@@ -4,7 +4,7 @@ title: titles.contact
 ---
 {% include JB/setup %}
 
-<form id="contact-form" class="contact-form" method="post">
+<form id="contact-form" class="contact-form" method="post" data-success="{% t contact.success %}">
 
   <label for="name">{% t contact.name %}</label>
   <input id="name" type="text" name="name" class="field" required autofocus /><br/>
@@ -20,12 +20,10 @@ title: titles.contact
 
   <label for="recaptcha_response_field">{% t contact.captcha %}</label>
   <div id="recaptcha_widget" class="recaptcha">
-
     <div class="image">
       <div id="recaptcha_image"></div>
     </div>
 
-    <div class="headline recaptcha_only_if_incorrect_sol">Incorrect please try again</div>
     <div class="headline recaptcha_only_if_image">{% t contact.words %}:</div>
     <div class="headline recaptcha_only_if_audio">{% t contact.numbers %}:</div>
 
@@ -35,11 +33,8 @@ title: titles.contact
     <span class="recaptcha_only_if_image"><a href="javascript:Recaptcha.switch_type('audio')"><i class="fa fa-volume-up"></i></a></span>
     <span class="recaptcha_only_if_audio"><a href="javascript:Recaptcha.switch_type('image')"><i class="fa fa-font"></i></a></span>
     <span><a href="javascript:Recaptcha.showhelp()"><i class="fa fa-question-circle"></i></a></span>
-
-  </div>
-
-  <div id="notice"></div>
-
+  </div><br/>
+  <div id="notice" class="notice" data-captcha-failed="{% t contact.captcha-failed %}" data-error="{% t contact.error %}"></div>
   <button type="submit">{% t contact.send %}</button>
 </form>
 
