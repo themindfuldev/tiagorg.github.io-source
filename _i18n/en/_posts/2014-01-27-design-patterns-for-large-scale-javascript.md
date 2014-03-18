@@ -6,7 +6,7 @@ tags: [talk, javascript, design patterns]
 ---
 {% include JB/setup %}
 
-On January 27th, 2014 I gave this talk (in English) at [Avenue Code](http://www.avenuecode.com), about the Learn the essential design patterns for large-scale JavaScript applications.
+On January 27th, 2014 I gave this talk (in English) at [Avenue Code](http://www.avenuecode.com), about the  essential design patterns for large-scale JavaScript applications.
 <br/>
 #### Slide deck
 [Slide deck link](//slid.es/avenuecode/design-patterns-for-large-scale-javascript)

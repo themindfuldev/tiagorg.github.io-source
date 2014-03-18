@@ -4,6 +4,34 @@
 		"selected_items":
 		[
 			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"out",
+				"outline-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"setup",
+				"setupRecaptcha"
+			],
+			[
+				"Javasc",
+				"Javascript"
+			],
+			[
 				"si",
 				"sidebarView"
 			],
@@ -128,10 +156,42 @@
 	"buffers":
 	[
 		{
-			"contents": "",
+			"file": "_i18n/pt.yml",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 2448,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_i18n/en/_posts/2014-02-09-how-to-create-a-contact-form-for-a-github-pages-served-jekyll-website.md",
+			"settings":
+			{
+				"buffer_size": 458,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_i18n/pt/_posts/2014-02-09-how-to-create-a-contact-form-for-a-github-pages-served-jekyll-website.md",
+			"settings":
+			{
+				"buffer_size": 471,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_i18n/en.yml",
+			"settings":
+			{
+				"buffer_size": 2383,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/themes/the-program/js/scripts.js",
+			"settings":
+			{
+				"buffer_size": 5925,
 				"line_ending": "Unix"
 			}
 		}
@@ -139,15 +199,11 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 47.0,
+		"height": 107.0,
 		"selected_items":
 		[
 			[
-				"git push cu",
-				"Git: Push Current Branch"
-			],
-			[
-				"git push",
+				"git pus",
 				"Git: Push"
 			],
 			[
@@ -159,16 +215,56 @@
 				"Git: Add..."
 			],
 			[
-				"git log",
-				"Git: Log Current File"
+				"git push",
+				"Git: Push"
 			],
 			[
-				"git pu",
-				"Git: Push Current Branch"
+				"git ps",
+				"Git: Push"
 			],
 			[
 				"git co",
 				"Git: Commit"
+			],
+			[
+				"git che",
+				"Git: Checkout Current File"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"syntax rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"git ch",
+				"Git: Checkout Current File"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git psu",
+				"Git: Push Current Branch"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git push cu",
+				"Git: Push Current Branch"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
 			],
 			[
 				"git commit",
@@ -211,7 +307,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 467.0
+		"width": 575.0
 	},
 	"console":
 	{
@@ -228,8 +324,86 @@
 	},
 	"file_history":
 	[
-		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/controllers/sidebar.js",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/assets/themes/the-program/css/_mediaqueries.less",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_includes/themes/the-program/default.html",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-contact-form/Gemfile",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-contact-form/config.ru",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/contact.html",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/assets/themes/the-program/js/scripts.js",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/en.yml",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_includes/themes/the-program/post.html",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/assets/themes/the-program/css/style.less",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_layouts/post.html",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_theme_packages/the-program/assets/themes/the-program/css/style.less",
+		"/Users/tgarcia/Development/AvenueCode/avenuecode/Gruntfile.js",
+		"/Users/tgarcia/Development/AvenueCode/avenuecode/package.json",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_config.yml",
+		"/Users/tgarcia/.bash_profile",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-contact-form/application.rb",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/assets/themes/the-program/css/style.css",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/pt.yml",
+		"/Users/tgarcia/.ssh/id_rsa.pub",
+		"/Users/tgarcia/Development/Personal/quiz-app/Gruntfile.js",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/atom.xml",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/en/_posts/2012-02-01-understanding-and-optimizing-the-garbage-collection-part-1.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/en/_posts/2011-10-01-design-patterns-enjoy-moderately.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_includes/themes/the-program/page.html",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/en/_posts/2014-01-08-boosting-the-client-side-with-backbone-js-en.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/en/_posts/2013-08-28-javascript-for-real.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/pt/_posts/2013-08-28-javascript-for-real.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/pt/_posts/2014-01-08-boosting-the-client-side-with-backbone-js-en.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_includes/JB/posts_collate",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/archive.html",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_layouts/default.html",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/pt/_posts/2014-02-04-javascript-hoisting.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/en/_posts/2014-02-04-javascript-hoisting.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_includes/JB/posts_list",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/protips.html",
+		"/Users/tgarcia/Development/Personal/ruhoh/config.yml",
+		"/Users/tgarcia/Development/Personal/ruhoh/Gemfile",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_plugins/plugin.rb",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/articles.html",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/talks.html",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/projects.html",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/pt/_posts/2011-10-01-article-design-patterns-enjoy-moderately.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/pt/_posts/article/2011-10-01-article-design-patterns-enjoy-moderately.md",
+		"/Users/tgarcia/Development/Personal/ruhoh/Gemsile",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/index.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/pt/_posts/2013-08-19-project-tasker.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/en/_posts/2013-08-19-project-tasker.md",
+		"/Users/tgarcia/Development/Personal/jekyll-multiple-languages-plugin/example/index.html",
+		"/Users/tgarcia/Development/Personal/jekyll-multiple-languages-plugin/example/_includes/post.html",
+		"/Users/tgarcia/Development/Personal/jekyll-multiple-languages-plugin/example/_i18n/en/_posts/2013-12-09-example-post.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/assets/themes/the-program/css/_less-base.less",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/en/_posts/2014-01-01-article-boosting-applications-with-rest-and-backbone-js.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/pt/_posts/2014-01-01-article-boosting-applications-with-rest-and-backbone-js.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/en/_posts/2013-10-19-talk-boosting-the-client-side-with-backbone-js-pt.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/en/_posts/2013-08-28-talk-javascript-for-real.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/en/_posts/2014-01-08-talk-boosting-the-client-side-with-backbone-js-en.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/en/_posts/2014-01-27-talk-design-patterns-for-large-scale-javascript.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/pt/_posts/2013-08-28-talk-javascript-for-real.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/pt/_posts/2013-10-19-talk-boosting-the-client-side-with-backbone-js-pt.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/pt/_posts/2014-01-08-talk-boosting-the-client-side-with-backbone-js-en.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/pt/_posts/2014-01-27-talk-design-patterns-for-large-scale-javascript.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/pt/_posts/2012-03-01-article-understanding-and-optimizing-the-garbage-collection-part-2.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/en/_posts/2012-03-01-article-understanding-and-optimizing-the-garbage-collection-part-2.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/en/_posts/2012-04-01-article-understanding-and-optimizing-the-garbage-collection-part-3.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/pt/_posts/2012-04-01-article-understanding-and-optimizing-the-garbage-collection-part-3.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/en/_posts/2013-07-01-article-what-do-i-need-to-know-about-html-5.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/pt/_posts/2013-07-01-article-what-do-i-need-to-know-about-html-5.md",
+		"/Users/tgarcia/Development/AvenueCode/backbone-exercises/hfilho/app/scripts/routes/app.js",
+		"/Users/tgarcia/Development/AvenueCode/backbone-exercises/hfilho/app/scripts/views/email.js",
 		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/views/sidebar.js",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/en/_posts/2012-02-01-article-understanding-and-optimizing-the-garbage-collection-part-1.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/pt/_posts/2012-02-01-article-understanding-and-optimizing-the-garbage-collection-part-1.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/en/_posts/2011-10-01-article-design-patterns-enjoy-moderately.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_includes/JB/tags_list",
+		"/Users/tgarcia/Development/Personal/talk-backbone-js-pt/index.html",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/en/_posts/2014-01-08-talk-boosting-the-client-side-with-backbone-js.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/pt/_posts/2014-01-08-talk-boosting-the-client-side-with-backbone-js.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_i18n/pt/_drafts/2012-04-01-article-understanding-and-optimizing-the-garbage-collection-part-3.md",
+		"/Users/tgarcia/Development/Personal/tiagorg.github.io-source/_drafts/2012-04-01-article-understanding-and-optimizing-the-garbage-collection-part-3.md",
+		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/controllers/sidebar.js",
 		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/collections/user.js",
 		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/repositories/user.js",
 		"/Users/tgarcia/Development/Personal/quiz-app/README.md",
@@ -250,7 +424,6 @@
 		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/views/question.js",
 		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/config/mediator.js",
 		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/templates/welcome-again.hbs",
-		"/Users/tgarcia/Development/Personal/quiz-app/Gruntfile.js",
 		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/models/summary.js",
 		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/controllers/again.js",
 		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/controllers/summary.js",
@@ -278,60 +451,7 @@
 		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/main-built.js",
 		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/data.js",
 		"/Users/tgarcia/Development/Personal/quiz-app/package.json",
-		"/Users/tgarcia/Development/Personal/quiz-app/node_modules/load-grunt-tasks/readme.md",
-		"/Users/tgarcia/Development/Personal/quiz-app/app/bower_components/sass-bootstrap/Gruntfile.js",
-		"/Users/tgarcia/Development/Personal/quiz-app/bower.json",
-		"/Users/tgarcia/Development/Personal/quiz-app/app/scripts/models/answer.js",
-		"/Users/tgarcia/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/Users/tgarcia/Development/Personal/quiz-app/.gitignore",
-		"/Users/tgarcia/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-		"/Users/tgarcia/Development/Personal/quiz-app/app/bower_components/modernizr/feature-detects/css-filters.js",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/.git/MERGE_MSG",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/views/search/search.js",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/config/appconfig.yml",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/templates/pagination.jst.hbs",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/collections/orders.js",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/README.md",
-		"/etc/hosts",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/templates/ticket/ticket_header.jst.hbs",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/views/ticket/dialog/forward_to_seller.js",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/views/ticket/ticket.js",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/VERSION",
-		"/Users/tgarcia/Development/Walmart/customer-services/.gitignore",
-		"/Users/tgarcia/Development/Walmart/customer-services/.git/MERGE_MSG",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/routers/app_router.js",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/views/ticket/change/ticket_change.js",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/features/support/helpers/cucumber_helpers.rb",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/features/value_total_client.feature",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/features/invoice.feature",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/features/step_definitions/steps_commons.rb",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/features/support/env.rb",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/features/support/download_helpers.rb",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/Gemfile",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/templates/delivery/delivery.jst.hbs",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/config/routes.rb",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/customer_services_frontend.js",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/controllers/api/v1/deliveries_controller.rb",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/features/support/chromedriver.rb",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/features/cancel.feature",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/views/ticket/list/ticket_list.js",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/views/open_tickets/open_tickets.js",
-		"/Users/tgarcia/Development/Walmart/selfhelp-api/modules/desktop/invoice.descriptor",
-		"/Users/tgarcia/Development/Walmart/selfhelp-api/endpoints/invoice.endpoint",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/stylesheets/order.less",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/stylesheets/delivery.less",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/views/delivery/delivery.js",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/views/delivery/delivery_item.js",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/common/common_functions.js",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/views/search/search_result_item.js",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/collections/delivery_item.js",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/stylesheets/ticket.less",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/templates/ticket/list/ticket_list.jst.hbs",
-		"/Users/tgarcia/Development/Walmart/customer-services-frontend/app/assets/javascripts/views/order/orders.js",
-		"/Users/tgarcia/.bash_profile",
-		"/Users/tgarcia/Development/Personal/eai/.git/MERGE_MSG",
-		"/Users/tgarcia/Development/Personal/eai/.gitignore",
-		"/Users/tgarcia/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt"
+		"/Users/tgarcia/Development/Personal/quiz-app/node_modules/load-grunt-tasks/readme.md"
 	],
 	"find":
 	{
@@ -357,6 +477,25 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"top",
+			"recaptcha",
+			"0",
+			"hover",
+			"connect",
+			"categ",
+			"read_things",
+			"categor",
+			"aggregate_post_info",
+			"process_org",
+			"the-footer",
+			"ul",
+			"margin-bottom: 1.625em",
+			"ul",
+			"if",
+			"% if",
+			"if",
+			"- ",
+			" - ",
 			"topFiveUsersView",
 			"    \n",
 			"getTotalUsers",
@@ -411,6 +550,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			" * ",
 			"sidebarView",
 			"",
 			"help-inline",
@@ -426,31 +566,141 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "_i18n/pt.yml",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 2448,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								2275,
+								2275
 							]
 						],
 						"settings":
 						{
-							"auto_name": "",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 332.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_i18n/en/_posts/2014-02-09-how-to-create-a-contact-form-for-a-github-pages-served-jekyll-website.md",
+					"settings":
+					{
+						"buffer_size": 458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_i18n/pt/_posts/2014-02-09-how-to-create-a-contact-form-for-a-github-pages-served-jekyll-website.md",
+					"settings":
+					{
+						"buffer_size": 471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								411,
+								411
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_i18n/en.yml",
+					"settings":
+					{
+						"buffer_size": 2383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2309,
+								2309
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 36.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "assets/themes/the-program/js/scripts.js",
+					"settings":
+					{
+						"buffer_size": 5925,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4476,
+								4476
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2145.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -504,6 +754,102 @@
 		"selected_items":
 		[
 			[
+				"scri",
+				"tiagorg.github.io-source/assets/themes/the-program/js/scripts.js"
+			],
+			[
+				"en.",
+				"tiagorg.github.io-source/_i18n/en.yml"
+			],
+			[
+				"style",
+				"tiagorg.github.io-source/assets/themes/the-program/css/style.less"
+			],
+			[
+				"contac",
+				"tiagorg.github.io-source/contact.html"
+			],
+			[
+				"post",
+				"tiagorg.github.io-source/_includes/themes/the-program/post.html"
+			],
+			[
+				"defaul",
+				"tiagorg.github.io-source/_includes/themes/the-program/default.html"
+			],
+			[
+				"media",
+				"tiagorg.github.io-source/assets/themes/the-program/css/_mediaqueries.less"
+			],
+			[
+				"config.",
+				"tiagorg.github.io-contact-form/config.ru"
+			],
+			[
+				"style.less",
+				"tiagorg.github.io-source/assets/themes/the-program/css/style.less"
+			],
+			[
+				"scrip",
+				"tiagorg.github.io-source/assets/themes/the-program/js/scripts.js"
+			],
+			[
+				"app",
+				"tiagorg.github.io-contact-form/application.rb"
+			],
+			[
+				"style.css",
+				"tiagorg.github.io-source/assets/themes/the-program/css/style.css"
+			],
+			[
+				"pt",
+				"tiagorg.github.io-source/_i18n/pt.yml"
+			],
+			[
+				"en",
+				"tiagorg.github.io-source/_i18n/en.yml"
+			],
+			[
+				"default",
+				"tiagorg.github.io-source/_includes/themes/the-program/default.html"
+			],
+			[
+				"page",
+				"_includes/themes/the-program/page.html"
+			],
+			[
+				"defa",
+				"_includes/themes/the-program/default.html"
+			],
+			[
+				"script",
+				"assets/themes/the-program/js/scripts.js"
+			],
+			[
+				"arc",
+				"archive.html"
+			],
+			[
+				"confi",
+				"tiagorg.github.io-source/_config.yml"
+			],
+			[
+				"inde",
+				"index.md"
+			],
+			[
+				"medi",
+				"assets/themes/the-program/css/_mediaqueries.less"
+			],
+			[
+				"sty",
+				"assets/themes/the-program/css/style.less"
+			],
+			[
+				"sc",
+				"assets/themes/the-program/js/scripts.js"
+			],
+			[
 				"content",
 				"app/scripts/routers/content.js"
 			],
@@ -528,16 +874,8 @@
 				"app/scripts/views/top-five-users.js"
 			],
 			[
-				"media",
-				"app/scripts/config/mediator.js"
-			],
-			[
 				"gruntf",
 				"Gruntfile.js"
-			],
-			[
-				"app",
-				"app/scripts/routes/app.js"
 			],
 			[
 				"summ",
@@ -754,6 +1092,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 257.0,
+	"side_bar_width": 350.0,
 	"status_bar_visible": true
 }
