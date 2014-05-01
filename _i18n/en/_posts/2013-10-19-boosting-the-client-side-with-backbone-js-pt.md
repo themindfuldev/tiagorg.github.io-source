@@ -8,6 +8,9 @@ tags: [talk, javascript, backbone.js]
 
 In October 19th, 2013 I gave this talk (in Portuguese) at [DevDay 2013](http://devday.devisland.com/), about the fundamentals on client-side apps, REST, JSON, MVC and how to blend it all together in a mature JavaScript SPA library from the MV* family, Backbone.js.
 <br/>
+#### Video
+[YouTube video link](//www.youtube.com/watch?v=isEsxOogNnY&list=UUuekWCPIBD2XC8Mw86tOy7Q)
+
 #### Slide deck
 [Slide deck link](//tgarcia.com.br/talk-backbone-js-pt)
 <iframe src="//tgarcia.com.br/talk-backbone-js-pt/#/" width="560" height="420" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
