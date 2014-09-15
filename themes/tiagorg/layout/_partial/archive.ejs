@@ -1,0 +1,51 @@
+<% if (pagination == 2){ %>
+  <% page.posts.each(function(post){ %>
+    <%- partial('article', {post: post, index: true}) %>
+  <% }) %>
+  <% if (page.total > 1){ %>
+  <div class="pagination-centered">
+    <ul class="pagination" role="menubar" aria-label="Pagination">
+      <% if (page.prev){ %>
+        <li class="arrow"><a href="<%- url_for(page.prev_link) %>">&laquo; Previous</a></li>
+      <% } else { %>
+        <li class="arrow unavailable" aria-disabled="true"><a>&laquo; Previous</a></li>
+      <% } %>
+
+      <% for (var i=1; i <= page.total; i++) { %>
+        <% if (page.current === i){ %>
+          <li class="current" aria-disabled="true"><a><%= i %></a></li>
+        <% } else { %>
+          <% var pageURL = (i === 1)? '/': '/page/' + i + '/'; %>
+          <li><a href="<%= pageURL %>"><%= i %></a></li>
+        <% } %>
+      <% } %>
+
+      <% if (page.next){ %>
+        <li class="arrow"><a href="<%- url_for(page.next_link) %>">Next &raquo;</a></li>
+      <% } else { %>
+        <li class="arrow unavailable" aria-disabled="true"><a>Next &raquo;</a></li>
+      <% } %>
+    </ul>
+  </div>
+  <% } %>
+<% } else { %>
+  <% var last; %>
+  <% page.posts.each(function(post, i){ %>
+    <% var year = post.date.year(); %>
+    <% if (last != year){ %>
+      <% if (last != null){ %>
+        </div></section>
+      <% } %>
+      <% last = year; %>
+      <section class="archives-wrap">
+        <div class="archive-year-wrap">
+          <a href="<%- config.root %>archives/<%= year %>" class="archive-year"><%= year %></a>
+        </div>
+        <div class="archives">
+    <% } %>
+    <%- partial('archive-post', {post: post, even: i % 2 == 0}) %>
+  <% }) %>
+  <% if (page.posts.length){ %>
+    </div></section>
+  <% } %>
+<% } %>

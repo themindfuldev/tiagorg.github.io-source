@@ -1,0 +1,14 @@
+<%- partial('_partial/head') %>
+<body>
+  <%- partial('_partial/header') %>
+  <div id="main">
+    <div class="row">
+      <section id="content" class="small-12 medium-12 large-8 large-push-4 columns">
+        <%- body %>
+      </section>
+      <%- partial('_partial/sidebar') %>
+    </div>
+  </div>
+  <%- partial('_partial/js') %>
+</body>
+</html>
