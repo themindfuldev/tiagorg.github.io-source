@@ -1,7 +1,5 @@
 ---
-layout: post
-title: Article - Understanding and optimizing the Garbage Collection - Part 1 [pt]
-description: "An article published in Java Magazine #102, about the Garbage Collection process in Java, detailing how do the JVM HotSpot 6 and 7 collectors work and how to optimize their behavior through JVM options."
+title: Understanding and optimizing the Garbage Collection - Part 1 [pt]
 tags: [java, garbage collection]
 category: article
 ---

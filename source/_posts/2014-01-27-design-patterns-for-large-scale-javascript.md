@@ -1,16 +1,13 @@
 ---
-layout: post
-title: Talk - Design Patterns for Large-Scale JavaScript [en]
-description: "A talk about the essential design patterns for large-scale JavaScript applications."
-tags: [javascript, design patterns]
+title: Design Patterns for Large-Scale JavaScript
+tags: [javascript, design patterns, large-scale]
 category: talk
 ---
 
-On January 27th, 2014 I gave this talk (in English) at [Avenue Code](http://www.avenuecode.com), about the  essential design patterns for large-scale JavaScript applications.
-<br/>
+On January 27th, 2014 I gave this talk at [Avenue Code](http://www.avenuecode.com), about the  essential design patterns for large-scale JavaScript applications.
+
 #### Slide deck
-[Slide deck link](//slid.es/avenuecode/design-patterns-for-large-scale-javascript)
-<iframe src="//slid.es/avenuecode/design-patterns-for-large-scale-javascript/embed" width="560" height="420" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen"> </iframe><br/>
+* [Slide deck link](//slid.es/avenuecode/design-patterns-for-large-scale-javascript)
 
 #### Prerequisites:
 

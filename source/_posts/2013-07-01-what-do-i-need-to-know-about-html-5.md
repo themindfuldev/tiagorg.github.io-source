@@ -1,8 +1,6 @@
 ---
-layout: post
-title: Article - What do I need to know about HTML 5? [pt]
-description: "An article published in Java Magazine #116, about HTML 5 as an alternative for development exclusively based on the server-side."
-tags: [html5]
+title: What do I need to know about HTML 5? [pt]
+tags: [html5, java, modernizr, nashorn]
 category: article
 ---
 

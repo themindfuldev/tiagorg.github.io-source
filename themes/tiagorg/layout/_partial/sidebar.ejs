@@ -1,15 +1,9 @@
-<aside id="sidebar" class="sidebar small-12 medium-12 large-pull-8 large-4 columns">
-  <section>
-    <a href="http://github.com/tiagorg/" rel="me" target="_blank"><i class="fi-social-github style2"></i></a>
-    <a href="http://www.linkedin.com/in/tiagorg/" rel="me" target="_blank"><i class="fi-social-linkedin style2"></i></a>
-    <a href="http://twitter.com/tiagooo_romero/" rel="me" target="_blank"><i class="fi-social-twitter style2"></i></a>
-    <a href="mailto:tiagoromerogarcia+contact@gmail.com"><i class="fi-mail style2"></i></a>
-  </section>
+<aside id="sidebar" class="sidebar small-12 medium-12 large-4 columns">
   <% theme.widgets.forEach(function(widget){ %>
     <%- partial('_widget/' + widget) %>
   <% }) %>
+  <section class="footer">
+    Theme inspired on <a href="http://octofound.annekjohnson.com" target="_blank">Octofound</a>.<br/>
+    Powered by <a href="http://hexo.io/" target="_blank">hexo</a>.
+  </section>
 </aside>
-<footer id="footer">
-  &copy; <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %><br>
-  Powered by <a href="http://hexo.io/" target="_blank">hexo</a>
-</footer>

@@ -1,7 +1,5 @@
 ---
-layout: post
-title: Article - Understanding and optimizing the Garbage Collection - Part 3 [pt]
-description: "An article published in Java Magazine #104, about common problems in Java code which ignore how Garbage Collection operates, how to write code to optimize this process and how to analyse the heap memory status in runtime."
+title: Understanding and optimizing the Garbage Collection - Part 3 [pt]
 tags: [java, garbage collection]
 category: article
 ---

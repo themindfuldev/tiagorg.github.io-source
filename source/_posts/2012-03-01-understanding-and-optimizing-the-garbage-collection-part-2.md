@@ -1,7 +1,5 @@
 ---
-layout: post
-title: Article - Understanding and optimizing the Garbage Collection - Part 2 [pt]
-description: "An article published in Java Magazine #103, about the operation of the colletors from the JVMs Oracle JRockit (WebLogic), IBM Virtual Machine for Java (WebSphere), those ones which implement JSR-1 (RTSJ) and Dalvik (Android)."
+title: Understanding and optimizing the Garbage Collection - Part 2 [pt]
 tags: [java, garbage collection]
 category: article
 ---

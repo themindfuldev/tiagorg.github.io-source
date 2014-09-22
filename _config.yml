@@ -87,3 +87,8 @@ exclude_generator:
 deploy:
   type: github
   repo: https://github.com/tiagorg/tiagorg.github.io.git
+
+# Compass
+ruby_sass:
+  executable: /usr/bin/ruby
+  arguments: [--compass, --line-numbers]

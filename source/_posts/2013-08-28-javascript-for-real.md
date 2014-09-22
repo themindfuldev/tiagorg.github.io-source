@@ -1,13 +1,11 @@
 ---
-layout: post
-title: Talk - JavaScript for Real [en]
-description: "A talk about how to code in JavaScript for real and start the good practices right now."
+title: JavaScript for Real
 tags: [javascript]
 category: talk
 ---
 
-On August 13th and 28th, 2013 I gave this talk (in English) at [Avenue Code](http://www.avenuecode.com), focusing on developers coming from languages such as Java, explaining how to code in JavaScript for real and start the good practices right now.
-<br/>
+On August 13th and 28th, 2013 I gave this talk at [Avenue Code](http://www.avenuecode.com), focusing on developers coming from languages such as Java, explaining how to code in JavaScript for real and start the good practices right now.
+
 #### Part 1
 [YouTube video link](//www.youtube.com/watch?v=kV5uEoyJ-pQ)
 <iframe width="560" height="315" src="//www.youtube.com/embed/kV5uEoyJ-pQ" frameborder="0" allowfullscreen="allowfullscreen"> </iframe><br/>

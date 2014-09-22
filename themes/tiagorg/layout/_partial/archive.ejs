@@ -15,8 +15,11 @@
         <% if (page.current === i){ %>
           <li class="current" aria-disabled="true"><a><%= i %></a></li>
         <% } else { %>
-          <% var pageURL = (i === 1)? '/': '/page/' + i + '/'; %>
-          <li><a href="<%= pageURL %>"><%= i %></a></li>
+          <%
+            var pageURL = (i === 1)? '': 'page/' + i + '/';
+            var prefix = page.path.split('page/')[0];
+          %>
+          <li><a href="<%- url_for(prefix + pageURL) %>"><%= i %></a></li>
         <% } %>
       <% } %>
 

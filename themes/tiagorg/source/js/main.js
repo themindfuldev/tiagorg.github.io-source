@@ -1,58 +1,4 @@
 var main = (function() {
-  function setupScrollTop() {
-    $('a[href*=#]:not([href=#])').click(function() {
-      if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-        var target = $(this.hash);
-        target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-        if (target.length) {
-          $('html,body').animate({
-            scrollTop: target.offset().top
-          }, 1000);
-          return false;
-        }
-      }
-    });
-  }
-
-  function setupCoderWall() {
-    var el = $('#coderwall');
-
-    if (el) {
-      $.ajax({
-        url: 'https://coderwall.com/tiagorg.json',
-        type: 'GET',
-        crossDomain: true,
-        dataType: 'jsonp',
-        success: function(response) {
-          var documentFragment = document.createDocumentFragment();
-          $.each(response.data.badges, function(index, badge) {
-            var li = $('<li/>');
-
-            var link = $('<a/>', {
-              href: 'https://coderwall.com/tiagorg',
-              target: '_blank'
-            });
-
-            var img = $('<img/>', {
-              src : badge.badge,
-              title : badge.description
-            });
-            link.append(img);
-
-            li.append(link);
-
-            var p = $('<p/>', {
-              text: badge.name
-            });
-            li.append(p);
-
-            documentFragment.appendChild(li[0]);
-          });
-          el.html(documentFragment);
-        }
-      });
-    }
-  }
 
   function setupGithubCommits() {
     var el = $('#github-commits');
@@ -109,14 +55,12 @@ var main = (function() {
   }
 
   function fixTargetLinks() {
-    $('#content a').attr('target','_blank');
+    $('#content article a').attr('target', '_blank');
   }
 
   return {
     initialize: function() {
-      setupScrollTop();
       setupGithubCommits();
-      setupCoderWall();
       fixTargetLinks();
     }
   }

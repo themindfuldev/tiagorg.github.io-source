@@ -1,21 +1,20 @@
 ---
-layout: post
-title: Talk - Boosting the client-side with Backbone.js [pt]
-description: "A talk about the fundamentals on client-side apps, REST, JSON, MVC and how to blend it all together in a mature JavaScript SPA library from the MV* family, Backbone.js."
-tags: [javascript, backbone.js]
+title: Boosting the client-side with Backbone.js [pt]
+tags: [javascript, backbone.js, handlebars.js]
 category: talk
 ---
 
 In October 19th, 2013 I gave this talk (in Portuguese) at [DevDay 2013](http://devday.devisland.com/), about the fundamentals on client-side apps, REST, JSON, MVC and how to blend it all together in a mature JavaScript SPA library from the MV* family, Backbone.js.
-<br/>
+
 #### Video
 [YouTube video link](//www.youtube.com/watch?v=isEsxOogNnY&list=UUuekWCPIBD2XC8Mw86tOy7Q)
+<iframe width="560" height="315" src="//www.youtube.com/embed/isEsxOogNnY?list=UUuekWCPIBD2XC8Mw86tOy7Q" frameborder="0" allowfullscreen></iframe><br/>
 
 #### Slide deck
-[Slide deck link](//tgarcia.com.br/talk-backbone-js-pt)
-<iframe src="//tgarcia.com.br/talk-backbone-js-pt/#/" width="560" height="420" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+* [Slide deck link](//tgarcia.com.br/talk-backbone-js-pt)
+
 #### Source code
-[talk-backbone-js-pt repo](https://github.com/tiagorg/talk-backbone-js-pt)
+* [talk-backbone-js-pt repo](https://github.com/tiagorg/talk-backbone-js-pt)
 
 #### Prerequisites
 

@@ -1,7 +1,5 @@
 ---
-layout: post
-title: Article - Design Patterns, enjoy moderately [pt]
-description: "An article published in the cover of Java Magazine #98, about principles, discussions and reflections about using designing patterns, in order to help the reader to develop critical sense about them. This way, the reader can extract knowledge from himself in order to apply design patterns moderately."
+title: Design Patterns, enjoy moderately [pt]
 tags: [java, design patterns]
 category: article
 ---

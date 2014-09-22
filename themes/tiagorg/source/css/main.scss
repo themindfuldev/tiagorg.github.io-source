@@ -1,0 +1,194 @@
+@import "settings";
+@import "foundation";
+@import "font-awesome/font-awesome";
+
+/* applies default font properties to most of the body */
+
+p{
+	font-weight: $body-font-weight;
+	font-size: $body-font-size;
+	line-height: $body-line-height;
+	border-bottom: $body-paragraph-margin;
+	@media #{$small-only} {
+		font-size: $body-font-size - 2px;
+	}
+}
+
+a {
+	font-weight: $anchor-font-weight;
+}
+
+strong{
+	font-weight: $bold-font-weight;
+}
+
+
+/* applies to <small></small> tags that can be used inside h1, h2, etc. */
+
+small{
+	font-weight: $body-font-weight;
+	font-style: italic;
+	font-family: $body-font-family;
+}
+
+/* formats main headers */
+h1 {
+	font-size: 40px;
+	a {
+		color: $header-font-color;
+
+		&:hover {
+			color: $anchor-font-color;
+		}
+	}
+
+	&.subheader{
+		font-size: 24px;
+		font-style: italic;
+		font-family: $body-font-family;
+		font-weight: $body-font-weight;
+		margin-top: -4px;
+	}
+
+	&.entry-title{
+		font-size: 30px;
+	}
+}
+
+aside {
+	padding-top: 10px;
+	h1 {
+		font-size: 30px;
+		border-bottom: 3px solid $bottom-border-color;
+	}
+	p.avatar {
+		text-align: center;
+		img {
+			-webkit-border-radius: 10px;
+			-moz-border-radius: 10px;
+			border-radius: 10px;
+			border: 2px solid #000;
+		}
+	}
+	div.about-me {
+		text-align: justify;
+		padding: 0 15px;
+	}
+	.social-icons {
+		text-align: center;
+		i {
+			margin: 0 5px;
+		}
+	}
+	.tag-cloud {
+		a {
+			margin: 0 1px;
+			display: inline-block;
+		}
+	}
+	section {
+		margin-top: 20px;
+	}
+	ul.archive-list {
+		.archive-list-count {
+			@include label(
+			    $radius: 4px,
+			    $bg:#448a68
+			);
+			vertical-align: text-bottom;
+			margin-left: 10px;
+		}
+	}
+}
+
+/* formats "MENU" text that appears for mobile nav menu */
+.top-bar{
+	.toggle-topbar a{
+		font-family: $header-font-family;
+		font-weight: $header-font-weight;
+
+		&:hover{
+			color: $name-font-color;
+		}
+	}
+
+	/* protects title portion on small screen sizes */
+	/* you may need to change min-width, depending on how long your title is */
+
+	.name{
+		h1{
+			a{
+				padding: 0 0 0 15px;
+				min-width: 220px;
+
+				&:hover{
+					color: $name-font-color;
+				}
+			}
+		}
+	}
+
+	/* increase letter spacing on menu links */
+
+	.top-bar-section ul li>a{
+		letter-spacing: $topbar-link-letterspacing;
+	}
+}
+
+/* applies font color to <code> tags */
+
+code{
+	color: $subheader-font-color;
+}
+
+body {
+	background: url('/img/background.png');
+	background-repeat: repeat;
+	background-position: 0 0;
+	background-color: $body-bg;
+}
+
+section#content {
+	background-color: $content-color;
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	border-top: 0;
+
+	-webkit-box-shadow: #ffffff 0px 0px 2px;
+	-moz-box-shadow: #ffffff 0px 0px 2px;
+	-o-box-shadow: #ffffff 0px 0px 2px;
+
+	h1 {
+		border-bottom: 3px solid $bottom-border-color;
+	}
+
+	article {
+		padding-top: 30px;
+		div.article-meta {
+			margin-bottom: 20px;
+			.article-category {
+				text-transform: capitalize;
+			}
+		}
+		footer.article-footer {
+			ul.article-tag-list {
+				@include crumb-container;
+				li.article-tag-list-item {
+				    @include crumbs;
+				    a {
+				    	color: $anchor-font-color;
+
+				    	&:hover {
+				    		text-decoration: none;
+				    		color: $anchor-font-color-hover;
+				    	}
+				    }
+				}
+			}
+		}
+		ul.pagination {
+			.article-nav-title {
+				color: $anchor-font-color;
+			}
+		}
+	}
+}

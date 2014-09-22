@@ -1,16 +1,13 @@
 ---
-layout: post
-title: Talk - Backbone.js tricks or treats [en]
-description: "A talk about pitfalls, solutions and good practices for common scenarios in Backbone.js."
+title: Backbone.js tricks or treats
 tags: [javascript, backbone.js, marionette.js, epoxy.js, sinon.js, design patterns]
 category: talk
 ---
 
-On March 20th, 2014 I gave this talk (in English) at [Avenue Code](http://www.avenuecode.com), about pitfalls, solutions and good practices for common scenarios in Backbone.js.
-<br/>
+On March 20th, 2014 I gave this talk at [Avenue Code](http://www.avenuecode.com). This talk explains some pitfalls, solutions and good practices for common scenarios in Backbone.js. In this talk the audience will learn about Marionette.js, Epoxy.js and Sinon.JS and how do they solve problems about performance, memory, productivity and code organization.
+
 #### Slide deck
-[Slide deck link](//tiagorg.github.io/talk-backbone-tricks-or-treats)
-<iframe src="//tgarcia.com.br/talk-backbone-tricks-or-treats/#/" width="560" height="420" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen"> </iframe><br/>
+* [Slide deck link](//tiagorg.github.io/talk-backbone-tricks-or-treats)
 
 #### Prerequisites:
 

@@ -1,8 +1,6 @@
 ---
-layout: post
-title: Article - Boosting applications with REST and Backbone.js [pt]
-description: "An article published in Java Magazine #123, about smart client-side applications using REST and Backbone.js, comparing with other web application styles such as Java web frameworks."
-tags: [javascript, backbone.js, play]
+title: Boosting applications with REST and Backbone.js [pt]
+tags: [javascript, backbone.js, handlebars.js, java, play]
 category: article
 ---
 
