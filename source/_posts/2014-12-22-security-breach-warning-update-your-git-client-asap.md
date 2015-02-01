@@ -1,5 +1,5 @@
 ---
-title: Security breach warning: update your git client ASAP!
+title: Security breach warning - update your git client ASAP!
 tags: [git, security]
 category: post
 ---
