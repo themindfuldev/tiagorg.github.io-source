@@ -4,7 +4,7 @@ tags: [javascript, backbone.js, marionette.js, virtual-dom]
 category: project
 ---
 
-In January, 2015 I published the [marionette-vdom project](https://github.com/tiagorg/marionette-vdom) on GitHub. This project aims to implement Marionette.js views with [virtual-dom](https://github.com/Matt-Esch/virtual-dom), in a [React](http://facebook.github.io/react/) similar fashion.
+In January, 2015 I published the [marionette-vdom project](https://github.com/tiagorg/marionette-vdom) on GitHub. This project aims to implement [Marionette.js](http://marionettejs.com) views with [virtual-dom](https://github.com/Matt-Esch/virtual-dom), in a [React](http://facebook.github.io/react/) similar fashion.
 
 ### Motivation
 
@@ -14,7 +14,7 @@ A key concern here is ensuring that whatever code implementing virtual DOM featu
 
 ### Current status
 
-To the date, its version 0.1.0 is implementing VDOM versions for **Marionette.ItemView** and **Marionette.CollectionView**. It can be used through node.js, [available on NPM](https://www.npmjs.com/package/marionette-vdom).
+To the date, its version 0.1.2 is implementing VDOM versions for **Marionette.ItemView** and **Marionette.CollectionView**. It can be used through node.js, [available on NPM](https://www.npmjs.com/package/marionette-vdom).
 
 Travis CI status: <a href="https://travis-ci.org/tiagorg/marionette-vdom"><img src="https://travis-ci.org/tiagorg/marionette-vdom.svg?branch=master" title="Build Status Images"></a>
 

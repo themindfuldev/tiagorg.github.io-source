@@ -1,6 +1,6 @@
 ---
 title: Design Patterns, enjoy moderately [pt]
-tags: [java, design patterns]
+tags: [java, design patterns, java magazine]
 category: article
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: What do I need to know about HTML 5? [pt]
-tags: [html5, java, modernizr, nashorn]
+tags: [html5, java, modernizr, nashorn, java magazine]
 category: article
 ---
 
-On July, 2013 I published an article (in Portuguese) in [Java Magazine #116](http://www.devmedia.com.br/revista-java-magazine-116/28258), sobre o HTML 5 as an alternative for development exclusively based on the server-side. This technology introduces and standardizes many innovative features on the browser or mobile device, in a safe, portable and native way.
+In July, 2013 I published an article (in Portuguese) in [Java Magazine #116](http://www.devmedia.com.br/revista-java-magazine-116/28258), sobre o HTML 5 as an alternative for development exclusively based on the server-side. This technology introduces and standardizes many innovative features on the browser or mobile device, in a safe, portable and native way.
 
 [Article What do I need to know about HTML 5? - DevMedia](http://www.devmedia.com.br/o-que-preciso-saber-sobre-html-5-revista-java-magazine-116/28078)
 

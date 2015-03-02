@@ -1,6 +1,6 @@
 ---
 title: Understanding and optimizing the Garbage Collection - Part 3 [pt]
-tags: [java, garbage collection]
+tags: [java, garbage collection, java magazine]
 category: article
 ---
 

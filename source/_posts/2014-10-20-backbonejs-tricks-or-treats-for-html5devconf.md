@@ -4,7 +4,7 @@ tags: [javascript, backbone.js, marionette.js, epoxy.js, react, sinon.js, design
 category: talk
 ---
 
-I gave this talk on October 20th, 2014 at [HTML5DevConf](http://html5devconf.com/speakers/tiago_romerogarcia.html), an October 9th, 2014 at [Backbone.js Hackers meetup](http://www.meetup.com/Backbone-js-Hackers/events/208495612/).
+I gave this talk on October 20th, 2014 at [HTML5DevConf](http://html5devconf.com/speakers/tiago_romerogarcia.html), and also on October 9th, 2014 at [Backbone.js Hackers meetup](http://www.meetup.com/Backbone-js-Hackers/events/208495612/).
 
 This talk explains some pitfalls, solutions and good practices for common scenarios in Backbone.js. In this talk the audience will learn about Marionette.js, React, Epoxy.js and Sinon.JS and how do they solve problems about performance, memory, productivity and code organization.
 

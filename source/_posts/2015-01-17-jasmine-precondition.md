@@ -18,7 +18,7 @@ Thus, the **preCondition** instruction defined here will simply poll a given con
 
 ### Current status
 
-To the date, its version 0.0.3 can be used either standalone and through node.js, [available on NPM](https://www.npmjs.com/package/jasmine-precondition).
+To the date, its version 0.1.0 can be used either standalone and through node.js, [available on NPM](https://www.npmjs.com/package/jasmine-precondition).
 
 Travis CI status: <a href="https://travis-ci.org/tiagorg/jasmine-precondition"><img src="https://travis-ci.org/tiagorg/jasmine-precondition.svg?branch=master" title="Build Status Images"></a>
 
