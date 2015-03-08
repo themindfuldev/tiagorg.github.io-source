@@ -13,4 +13,4 @@ All in all, developers face regular frustration. This is pretty much because we 
 
 When two developers’ personalities run into each other, there is generally confrontation. While this can be extremely educational and uplifting, it can also be disturbing and troublesome if both parties don't share a positive attitude. A key factor here is exercising what I call “thoughtful programming”.
 
-This article will give a few suggestions about how to program in a more thoughtful way, by revisiting one of the XP (Extreme programming) rules: the concept of collective ownership (http://www.extremeprogramming.org/rules/collective.html).
+This article will give a few suggestions about how to program in a more thoughtful way, by revisiting one of the XP (Extreme programming) rules: the concept of [collective ownership](http://www.extremeprogramming.org/rules/collective.html).
