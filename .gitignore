@@ -4,5 +4,5 @@ db.json
 debug.log
 node_modules/
 public/
-.deploy/
 .sass-cache/
+.deploy_git/
