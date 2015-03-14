@@ -1,7 +1,7 @@
 ---
 title: Javascript Hoisting
 tags: [javascript, hoisting]
-category: post
+category: protip
 ---
 
 Every Javascript developer should be aware of the Hoisting concept, which can potentially produce side-effects if ignored. Hoisting is about how Javascript deals with scoping for var declarations.

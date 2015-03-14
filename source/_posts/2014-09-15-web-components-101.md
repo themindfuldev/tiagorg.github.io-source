@@ -1,7 +1,7 @@
 ---
 title: Web Components 101
 tags: [web components, front-end]
-category: post
+category: protip
 ---
 
 Over the past few years a lot of people have been trying to rethink the way the web can/should be used. Currently, front-end developers find themselves in the often-frustrating situation of having to build complex websites with HTML–which can often be a fairly blunt tool–on top of the clunky foundations of Jurassic-age web browser limitations.

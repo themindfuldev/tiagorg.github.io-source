@@ -1,7 +1,7 @@
 ---
 title: Enlighten your coding skills as you would play a videogame
 tags: [coding, challenges, videogame]
-category: post
+category: protip
 ---
 
 We all know that becoming a solid software developer is not something that happens in a day.

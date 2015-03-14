@@ -1,7 +1,7 @@
 ---
 title: Security breach warning - update your git client ASAP!
 tags: [git, security]
-category: post
+category: protip
 ---
 
 A critical security breach with Git clients was discovered mid-December. It affects all versions of official Git clients, both command-line and graphical tools such as the GitHub app.
