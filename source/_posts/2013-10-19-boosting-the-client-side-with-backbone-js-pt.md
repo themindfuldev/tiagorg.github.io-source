@@ -11,7 +11,7 @@ On October 19th, 2013 I gave this talk (in Portuguese) at [DevDay 2013](http://d
 <iframe width="560" height="315" src="//www.youtube.com/embed/isEsxOogNnY?list=UUuekWCPIBD2XC8Mw86tOy7Q" frameborder="0" allowfullscreen></iframe><br/>
 
 #### Slide deck
-* [Slide deck link](//tgarcia.com.br/talk-backbone-js-pt)
+* [Slide deck link](//tiagorg.github.io/talk-backbone-js-pt)
 
 #### Source code
 * [talk-backbone-js-pt repo](https://github.com/tiagorg/talk-backbone-js-pt)
