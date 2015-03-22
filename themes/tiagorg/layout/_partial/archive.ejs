@@ -17,7 +17,7 @@
         <% } else { %>
           <%
             var pageURL = (i === 1)? '': 'page/' + i + '/';
-            var prefix = page.path.split('page/')[0];
+            var prefix = page.path.split('page/')[0].replace('index.html', '');
           %>
           <li><a href="<%- url_for(prefix + pageURL) %>"><%= i %></a></li>
         <% } %>

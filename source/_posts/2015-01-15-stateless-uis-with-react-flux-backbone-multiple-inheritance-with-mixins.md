@@ -4,7 +4,7 @@ tags: [javascript, backbone.js, react, flux, meetup]
 category: event
 ---
 
-On January 15th, 2015 I hosted the [Backbone.js Hackers](www.meetup.com/Backbone-js-Hackers/) meetup in SF at [Brandcast](https://www.brandcast.com/). 
+On January 15th, 2015 I hosted the [Backbone.js Hackers](http://www.meetup.com/Backbone-js-Hackers/) meetup in SF at [Brandcast](https://www.brandcast.com/). 
 
 Thanks [Avenue Code](http://avenuecode.com) for sponsoring the food and drinks and Dan Lynch from Brandcast for arranging the venue!
 
@@ -19,3 +19,5 @@ Backbone provides a convenient way to subclass your view through single inherita
 Easier testability, quicker development and code that's easier to reason about are just some of the benefits of writing stateless UIs.  This session will deep dive into the core concepts of Flux Architecture and how it partners with ReactJS. Finally we will demonstrate how these concepts can be applied to your Backbone application to achieve a highly decoupled View layer.
 
 Check out [Stateless UIs with React + Flux with Backbone & Multiple Inheritance with Mixins](http://www.meetup.com/Backbone-js-Hackers/events/218727647/).
+
+You can also watch the [Video](https://www.youtube.com/watch?v=zBaiuavQDN0).
