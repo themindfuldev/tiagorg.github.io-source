@@ -4,7 +4,7 @@ tags: [technical debt, infoq, xp, collective ownership, unit testing]
 category: article
 ---
 
-In March, 2015 I published an article in [InfoQ](http://www.infoq.com), about  effectively exercising collective ownership to avoid confrontation and technical debt.
+In March, 2015 I published an article on [InfoQ](http://www.infoq.com), about  effectively exercising collective ownership to avoid confrontation and technical debt.
 
 [Article Revisiting XP: be a thoughtful programmer by exercising more collective ownership - InfoQ](http://www.infoq.com/articles/revisit-p-collective)
 

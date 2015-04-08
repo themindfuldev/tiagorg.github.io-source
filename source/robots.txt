@@ -1,0 +1,4 @@
+Sitemap: http://tiagorg.com/sitemap.xml
+
+User-agent: *
+Crawl-delay: 1

@@ -4,7 +4,7 @@ tags: [java, design patterns, java magazine]
 category: article
 ---
 
-In October, 2011 I published an article (in Portuguese) in the cover of [Java Magazine #98](http://www.devmedia.com.br/revista-java-magazine-98/23078), about principles, discussions and reflections about using designing patterns, in order to help the reader to develop critical sense about them. This way, the reader can extract knowledge from himself in order to apply design patterns moderately.
+In October, 2011 I published an article (in Portuguese) features as the cover of [Java Magazine #98](http://www.devmedia.com.br/revista-java-magazine-98/23078), about principles, discussions and reflections about using designing patterns, in order to help the reader to develop critical sense about them. This way, the reader can extract knowledge from himself in order to apply design patterns moderately.
 
 [Article Design Patterns, enjoy moderately - DevMedia](http://www.devmedia.com.br/padroes-de-projeto-revista-java-magazine-98/23072)
 
