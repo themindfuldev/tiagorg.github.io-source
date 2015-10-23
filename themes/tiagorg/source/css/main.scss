@@ -76,8 +76,13 @@ aside {
 	}
 	.social-icons {
 		text-align: center;
-		i {
+		a > i {
 			margin: 0 5px;
+		}
+		a > span.fa-stack {
+			margin: 0;
+			font-size: 1.5em;
+			vertical-align: bottom;
 		}
 	}
 	.tag-cloud {
