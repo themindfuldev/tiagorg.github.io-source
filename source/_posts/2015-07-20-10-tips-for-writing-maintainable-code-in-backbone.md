@@ -8,6 +8,10 @@ I gave this talk on July 20th, 2015 at [Dancing with Marionette.js meetup](http:
 
 This talk explains some pitfalls, solutions and good practices for common scenarios in Backbone.js. In this talk the audience will learn about Marionette.js, React, Epoxy.js and Sinon.JS and how do they solve problems about performance, memory, productivity and code organization.
 
+#### Video
+[YouTube video link](//www.youtube.com/watch?v=kapSK4aovUs&feature=youtu.be)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kapSK4aovUs" frameborder="0" allowfullscreen></iframe>
+
 #### Slide deck
 * [Slide deck link](//tiagorg.com/talk-10-tips-for-writing-maintainable-code-in-backbone/#/)
 
