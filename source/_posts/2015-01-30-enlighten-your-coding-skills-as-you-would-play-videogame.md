@@ -10,4 +10,4 @@ However, one should not stop learning when he knows enough coding to land a good
 
 So why not combine business with pleasure and taking coding challenges as you play a videogame?
 
-On this [post at Code Highway blog](http://avenuecode.com/enlighten-coding-skills-play-videogame/) I suggest how to game your way to coding success
+On this [post at Medium](https://medium.com/@tiagorg/enlighten-your-coding-skills-as-you-would-play-a-videogame-ded984ba9b99), originally made for [Avenue Code](http://www.avenuecode.com)'s **Code Highway** blog, I suggest how to game your way to coding success.
