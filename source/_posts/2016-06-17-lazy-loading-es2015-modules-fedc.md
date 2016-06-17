@@ -17,7 +17,7 @@ This talk is about loading code during page load time vs lazy loading, then how 
 - JSPM as a dependency management system
 
 #### Slide deck
-* [Slide deck link](tiagorg.com/talk-lazy-loading-es2015-modules/)
+* [Slide deck link](http://tiagorg.com/talk-lazy-loading-es2015-modules/)
 
 #### Resources
 - [Lazy load EAA pattern](http://martinfowler.com/eaaCatalog/lazyLoad.html)
