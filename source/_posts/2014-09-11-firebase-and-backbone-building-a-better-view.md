@@ -4,7 +4,7 @@ tags: [javascript, backbone.js, firebase, marionette.js, thorax, stickit, react,
 category: event
 ---
 
-On September 11th, 2014 I hosted the [Backbone.js Hackers](http://www.meetup.com/Backbone-js-Hackers/) meetup in San Francisco, CA at [Pivotal Labs](http://pivotallabs.com/).
+On September 11th, 2014 I hosted the [Backbone.js Hackers](http://www.meetup.com/Backbone-js-Hackers/) meetup in **San Francisco, CA** at [Pivotal Labs](http://pivotallabs.com/).
 
 Me and Summer Kim volunteered to revamp this meetup after 1 year of hiatus. Thanks [Avenue Code](http://avenuecode.com) for sponsoring the food and drinks and Jonathon Kresner from AirPair for arranging the venue!
 

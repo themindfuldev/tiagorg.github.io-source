@@ -4,7 +4,7 @@ tags: [javascript, backbone.js, jasmine, cartero, meetup]
 category: event
 ---
 
-On November 13th, 2014 I hosted the [Backbone.js Hackers](http://www.meetup.com/Backbone-js-Hackers/) meetup in San Francisco, CA at [Macy's.com](https://www.macys.com/).
+On November 13th, 2014 I hosted the [Backbone.js Hackers](http://www.meetup.com/Backbone-js-Hackers/) meetup in **San Francisco, CA** at [Macy's.com](https://www.macys.com/).
 
 Thanks [Avenue Code](http://avenuecode.com) for sponsoring the food and drinks and Yulia Kukuyuk from Macy's.com for arranging the venue!
 

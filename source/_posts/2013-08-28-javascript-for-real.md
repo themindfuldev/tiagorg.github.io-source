@@ -4,7 +4,7 @@ tags: [javascript]
 category: talk
 ---
 
-On August 13th and 28th, 2013 I gave this talk at [Avenue Code](http://www.avenuecode.com) in Belo Horizonte, MG, Brazil, focusing on developers coming from languages such as Java, explaining how to code in JavaScript for real and start the good practices right now.
+On August 13th and 28th, 2013 I gave this talk at [Avenue Code](http://www.avenuecode.com) in **Belo Horizonte, MG**, Brazil, focusing on developers coming from languages such as Java, explaining how to code in JavaScript for real and start the good practices right now.
 
 #### Part 1
 [YouTube video link](//www.youtube.com/watch?v=kV5uEoyJ-pQ)

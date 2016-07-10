@@ -4,7 +4,7 @@ tags: [javascript, backbone.js, marionette.js, epoxy.js, sinon.js, design patter
 category: talk
 ---
 
-On March 20th, 2014 I gave this talk at [Avenue Code](http://www.avenuecode.com) in Belo Horizonte, MG, Brazil. This talk explains some pitfalls, solutions and good practices for common scenarios in Backbone.js. In this talk the audience will learn about Marionette.js, Epoxy.js and Sinon.JS and how do they solve problems about performance, memory, productivity and code organization.
+On March 20th, 2014 I gave this talk at [Avenue Code](http://www.avenuecode.com) in **Belo Horizonte, MG, Brazil**. This talk explains some pitfalls, solutions and good practices for common scenarios in Backbone.js. In this talk the audience will learn about Marionette.js, Epoxy.js and Sinon.JS and how do they solve problems about performance, memory, productivity and code organization.
 
 #### Slide deck
 * [Slide deck link](//tiagorg.github.io/talk-backbone-tricks-or-treats)

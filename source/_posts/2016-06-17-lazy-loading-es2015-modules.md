@@ -1,11 +1,11 @@
 ---
 title: Lazy Loading ES2015 modules in the browser
-tags: [javascript, lazy-loading, es2015, commonjs, amd, requirejs, webpack, system.js, jspm, design patterns, fedc, webpack, devcon5]
+tags: [javascript, lazy-loading, es2015, commonjs, amd, requirejs, webpack, system.js, jspm, design patterns, fedc, devcon5, abstractions]
 category: talk
 ---
 
-I gave this talk on June 17th, 2016 at[Front End Design Conference](http://frontenddesignconference.com/)
- in St. Petersburgh, FL and on August 11th, 2016 at [DevCon5](http://www.html5report.com/conference/newyork/) in New York, NY.
+I gave this talk on June 17th, 2016 at [Front End Design Conference](http://frontenddesignconference.com/)
+ in **St. Petersburgh, FL**, on August 2nd, 2016 at [DevCon5](http://www.html5report.com/conference/newyork/) in **New York, NY** and on August 18th, 2016 at [Abstractions](http://abstractions.io/) in **Pittsburgh, PA**.
 
 This talk is about loading code during page load time vs lazy loading, then how to load ES2015 modules both synchronously (during page load) and asynchronously (lazy-load) using System.js over Babel, as well as how to use JSPM and Webpack 2 to bundle your app and resolve dependencies.
 

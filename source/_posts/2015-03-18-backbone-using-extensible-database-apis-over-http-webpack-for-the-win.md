@@ -4,7 +4,7 @@ tags: [javascript, backbone.js, webpack, arangodb, database, nosql, meetup]
 category: event
 ---
 
-On March 18th, 2015 I hosted the [Backbone.js Hackers](http://www.meetup.com/Backbone-js-Hackers/) meetup in San Francisco, CA at [Remind](https://www.remind.com/).
+On March 18th, 2015 I hosted the [Backbone.js Hackers](http://www.meetup.com/Backbone-js-Hackers/) meetup in **San Francisco, CA** at [Remind](https://www.remind.com/).
 
 Thanks [Avenue Code](http://avenuecode.com) for sponsoring the food and drinks and Brenda Campbell from Remind for arranging the venue!
 
