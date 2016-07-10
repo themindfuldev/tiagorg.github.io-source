@@ -4,7 +4,7 @@ tags: [javascript, backbone.js, react, flux, meetup]
 category: event
 ---
 
-On January 15th, 2015 I hosted the [Backbone.js Hackers](http://www.meetup.com/Backbone-js-Hackers/) meetup in SF at [Brandcast](https://www.brandcast.com/). 
+On January 15th, 2015 I hosted the [Backbone.js Hackers](http://www.meetup.com/Backbone-js-Hackers/) meetup in San Francisco, CA at [Brandcast](https://www.brandcast.com/).
 
 Thanks [Avenue Code](http://avenuecode.com) for sponsoring the food and drinks and Dan Lynch from Brandcast for arranging the venue!
 

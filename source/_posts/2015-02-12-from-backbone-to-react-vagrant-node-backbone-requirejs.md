@@ -4,7 +4,7 @@ tags: [javascript, backbone.js, react, vagrant, node.js, require.js, meetup]
 category: event
 ---
 
-On February 12th, 2015 I hosted the [Backbone.js Hackers](http://www.meetup.com/Backbone-js-Hackers/) meetup in SF at [Place](http://corporate.place.xyz/). 
+On February 12th, 2015 I hosted the [Backbone.js Hackers](http://www.meetup.com/Backbone-js-Hackers/) meetup in San Francisco, CA at [Place](http://corporate.place.xyz/).
 
 Thanks [Avenue Code](http://avenuecode.com) for sponsoring the food and drinks and Chengyin Liu from Place for arranging the venue!
 

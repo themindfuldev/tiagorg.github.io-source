@@ -4,7 +4,7 @@ tags: [javascript, backbone.js, marionette.js, epoxy.js, react, sinon.js, design
 category: talk
 ---
 
-I gave this talk on July 20th, 2015 at [Dancing with Marionette.js meetup](http://www.meetup.com/Dancing-with-Marionette-js/).
+I gave this talk on July 20th, 2015 at [Dancing with Marionette.js meetup](http://www.meetup.com/Dancing-with-Marionette-js/) in New York, NY.
 
 This talk explains some pitfalls, solutions and good practices for common scenarios in Backbone.js. In this talk the audience will learn about Marionette.js, React, Epoxy.js and Sinon.JS and how do they solve problems about performance, memory, productivity and code organization.
 

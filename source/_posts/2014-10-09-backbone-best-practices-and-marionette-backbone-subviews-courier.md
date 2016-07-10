@@ -4,7 +4,7 @@ tags: [javascript, backbone.js, marionette.js, epoxy.js, react, sinon.js, design
 category: event
 ---
 
-On October 9th, 2014 I hosted the [Backbone.js Hackers](http://www.meetup.com/Backbone-js-Hackers/) meetup in SF at [Cloudflare](https://www.cloudflare.com/). 
+On October 9th, 2014 I hosted the [Backbone.js Hackers](http://www.meetup.com/Backbone-js-Hackers/) meetup in San Francisco, CA at [Cloudflare](https://www.cloudflare.com/).
 
 Thanks [Avenue Code](http://avenuecode.com) for sponsoring the food and drinks and James Kyle from Cloudflare for arranging the venue!
 

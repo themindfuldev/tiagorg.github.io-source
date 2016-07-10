@@ -4,7 +4,7 @@ tags: [javascript, design patterns, large-scale, amd, require.js, commonjs, node
 category: talk
 ---
 
-On July 21st, 2015 I gave this talk on [DevCon5](http://www.html5report.com/conference/newyork/), about the essential design patterns for JavaScript applications, focusing on the different module strategies as CommonJS, AMD and ES6 Modules.
+On July 21st, 2015 I gave this talk on [DevCon5](http://www.html5report.com/conference/newyork/) in New York, NY, about the essential design patterns for JavaScript applications, focusing on the different module strategies as CommonJS, AMD and ES6 Modules.
 
 #### Slide deck
 * [Slide deck link](//tiagorg.com/talk-design-patterns-for-javascript-featuring-modules)

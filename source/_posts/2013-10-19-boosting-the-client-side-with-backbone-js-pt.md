@@ -4,7 +4,7 @@ tags: [javascript, backbone.js, handlebars.js]
 category: talk
 ---
 
-On October 19th, 2013 I gave this talk (in Portuguese) at [DevDay 2013](http://devday.devisland.com/), about the fundamentals on client-side apps, REST, JSON, MVC and how to blend it all together in a mature JavaScript SPA library from the MV* family, Backbone.js.
+On October 19th, 2013 I gave this talk (in Portuguese) at [DevDay 2013](http://devday.devisland.com/) in Belo Horizonte, MG, Brazil, about the fundamentals on client-side apps, REST, JSON, MVC and how to blend it all together in a mature JavaScript SPA library from the MV* family, Backbone.js.
 
 #### Video
 [YouTube video link](//www.youtube.com/watch?v=isEsxOogNnY&list=UUuekWCPIBD2XC8Mw86tOy7Q)

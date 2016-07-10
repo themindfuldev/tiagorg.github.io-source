@@ -4,7 +4,7 @@ tags: [javascript, backbone.js, handlebars.js]
 category: talk
 ---
 
-On January 8th, 2014 I gave this talk at [Avenue Code](http://www.avenuecode.com), about the fundamentals on client-side apps, REST, JSON, MVC and how to blend it all together in a mature JavaScript SPA library from the MV* family, Backbone.js.
+On January 8th, 2014 I gave this talk at [Avenue Code](http://www.avenuecode.com) in Belo Horizonte, MG, Brazil, about the fundamentals on client-side apps, REST, JSON, MVC and how to blend it all together in a mature JavaScript SPA library from the MV* family, Backbone.js.
 
 #### Video
 [YouTube video link](//www.youtube.com/watch?v=8ZzqMFAU_Kw)

@@ -4,13 +4,13 @@ tags: [javascript, backbone.js, firebase, marionette.js, thorax, stickit, react,
 category: event
 ---
 
-On September 11th, 2014 I hosted the [Backbone.js Hackers](http://www.meetup.com/Backbone-js-Hackers/) meetup in SF at [Pivotal Labs](http://pivotallabs.com/). 
+On September 11th, 2014 I hosted the [Backbone.js Hackers](http://www.meetup.com/Backbone-js-Hackers/) meetup in San Francisco, CA at [Pivotal Labs](http://pivotallabs.com/).
 
 Me and Summer Kim volunteered to revamp this meetup after 1 year of hiatus. Thanks [Avenue Code](http://avenuecode.com) for sponsoring the food and drinks and Jonathon Kresner from AirPair for arranging the venue!
 
 On this meetup we had 2 talks:
 
-#### 1) [David East](http://twitter.com/eastdotnet) - Building realtime web apps with Firebase and Backbone 
+#### 1) [David East](http://twitter.com/eastdotnet) - Building realtime web apps with Firebase and Backbone
 
 Realtime data is more than just a buzz word. It's the new evolution of the way data is being delivered around the web. In this talk we'll learn how we can use Firebase to give our apps realtime data. We'll take a look at why realtime data is difficult to implement and what we can do to make it easier. At the end we'll do a live coding session where we'll give a Backbone app realtime powers using Firebase's BackFire library.
 

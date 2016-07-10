@@ -4,7 +4,7 @@ tags: [javascript, backbone.js, jasmine, cartero, meetup]
 category: event
 ---
 
-On November 13th, 2014 I hosted the [Backbone.js Hackers](http://www.meetup.com/Backbone-js-Hackers/) meetup in SF at [Macy's.com](https://www.macys.com/). 
+On November 13th, 2014 I hosted the [Backbone.js Hackers](http://www.meetup.com/Backbone-js-Hackers/) meetup in San Francisco, CA at [Macy's.com](https://www.macys.com/).
 
 Thanks [Avenue Code](http://avenuecode.com) for sponsoring the food and drinks and Yulia Kukuyuk from Macy's.com for arranging the venue!
 
@@ -14,7 +14,7 @@ On this meetup we had 2 talks:
 
 This talk is about modularization of the front end into encapsulated, reusable packages, via development of tools such as cartero, backbone.subviews, and backbone.courier.
 
-#### 2) [Brenda Jin](http://twitter.com/cyberneticlove) - Jasmine Testing for Backbone.js Models and Views 
+#### 2) [Brenda Jin](http://twitter.com/cyberneticlove) - Jasmine Testing for Backbone.js Models and Views
 
 This session will cover a breakdown of how to approach Jasmine testing for Backbone.js Models and Views, how Jasmine testing works with instantiating new Models and Views, and how to trigger and test custom events and their callbacks. Her [slide deck](http://jasmine-backbone.herokuapp.com/) is also available.
 
