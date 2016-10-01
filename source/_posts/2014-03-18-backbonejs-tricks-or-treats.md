@@ -1,6 +1,6 @@
 ---
 title: Backbone.js tricks or treats
-tags: [javascript, backbone.js, marionette.js, epoxy.js, sinon.js, design patterns]
+tags: [javascript, backbone.js, marionette.js, epoxy.js, sinon.js, design patterns, avenue code]
 category: talk
 ---
 

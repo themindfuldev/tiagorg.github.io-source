@@ -1,6 +1,6 @@
 ---
 title: Jasmine Testing for Models and Views + Directory structure on modularized apps
-tags: [javascript, backbone.js, jasmine, cartero, meetup]
+tags: [javascript, backbone.js, jasmine, cartero, meetup, avenue code]
 category: event
 ---
 

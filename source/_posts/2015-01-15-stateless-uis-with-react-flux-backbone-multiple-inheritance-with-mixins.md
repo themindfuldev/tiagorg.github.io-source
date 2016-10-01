@@ -1,6 +1,6 @@
 ---
 title: Stateless UIs with React + Flux with Backbone & Multiple Inheritance with Mixins
-tags: [javascript, backbone.js, react, flux, meetup]
+tags: [javascript, backbone.js, react, flux, meetup, avenue code]
 category: event
 ---
 

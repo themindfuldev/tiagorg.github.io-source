@@ -1,6 +1,6 @@
 ---
 title: What is all the fuss about with front-end development?
-tags: [javascript, front-end]
+tags: [javascript, front-end, avenue code]
 category: protip
 ---
 

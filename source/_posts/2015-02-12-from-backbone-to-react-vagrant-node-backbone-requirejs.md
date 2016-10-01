@@ -1,6 +1,6 @@
 ---
 title: From Backbone to React + Vagrant & Node & Backbone & RequireJS
-tags: [javascript, backbone.js, react, vagrant, node.js, require.js, meetup]
+tags: [javascript, backbone.js, react, vagrant, node.js, require.js, meetup, avenue code]
 category: event
 ---
 

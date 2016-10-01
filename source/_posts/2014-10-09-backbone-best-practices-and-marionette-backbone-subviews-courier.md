@@ -1,6 +1,6 @@
 ---
 title: Backbone.js best practices & Marionette.js + Backbone.Subviews/Ba­ckbone.Courier
-tags: [javascript, backbone.js, marionette.js, epoxy.js, react, sinon.js, design patterns, cartero, meetup]
+tags: [javascript, backbone.js, marionette.js, epoxy.js, react, sinon.js, design patterns, cartero, meetup, avenue code]
 category: event
 ---
 

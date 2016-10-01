@@ -1,6 +1,6 @@
 ---
 title: Web Components 101
-tags: [web components, front-end]
+tags: [web components, front-end, avenue code]
 category: protip
 ---
 

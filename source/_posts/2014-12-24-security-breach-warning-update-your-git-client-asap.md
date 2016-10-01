@@ -1,6 +1,6 @@
 ---
 title: Security breach warning - update your git client ASAP!
-tags: [git, security]
+tags: [git, security, avenue code]
 category: protip
 ---
 

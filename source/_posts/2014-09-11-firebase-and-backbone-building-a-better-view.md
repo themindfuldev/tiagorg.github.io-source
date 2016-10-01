@@ -1,6 +1,6 @@
 ---
 title: We are back! Learn about Firebase & Backbone + building a better Backbone.View!
-tags: [javascript, backbone.js, firebase, marionette.js, thorax, stickit, react, meetup]
+tags: [javascript, backbone.js, firebase, marionette.js, thorax, stickit, react, meetup, avenue code]
 category: event
 ---
 

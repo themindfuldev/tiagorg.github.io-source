@@ -1,6 +1,6 @@
 ---
 title: Boosting the client-side with Backbone.js
-tags: [javascript, backbone.js, handlebars.js]
+tags: [javascript, backbone.js, handlebars.js, avenue code]
 category: talk
 ---
 

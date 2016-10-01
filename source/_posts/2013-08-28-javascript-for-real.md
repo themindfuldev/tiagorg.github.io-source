@@ -1,6 +1,6 @@
 ---
 title: JavaScript for Real
-tags: [javascript]
+tags: [javascript, avenue code]
 category: talk
 ---
 

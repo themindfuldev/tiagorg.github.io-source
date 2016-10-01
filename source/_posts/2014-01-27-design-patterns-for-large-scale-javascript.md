@@ -1,6 +1,6 @@
 ---
 title: Design Patterns for Large-Scale JavaScript
-tags: [javascript, design patterns, large-scale]
+tags: [javascript, design patterns, large-scale, avenue code]
 category: talk
 ---
 

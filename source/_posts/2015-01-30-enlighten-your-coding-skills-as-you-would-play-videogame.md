@@ -1,6 +1,6 @@
 ---
 title: Enlighten your coding skills as you would play a videogame
-tags: [coding, challenges, videogame]
+tags: [coding, challenges, videogame, avenue code]
 category: protip
 ---
 

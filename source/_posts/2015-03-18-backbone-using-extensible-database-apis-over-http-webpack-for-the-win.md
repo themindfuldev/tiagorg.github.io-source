@@ -1,6 +1,6 @@
 ---
 title: Backbone using Extensible Database APIs over HTTP + Webpack for the win!
-tags: [javascript, backbone.js, webpack, arangodb, database, nosql, meetup]
+tags: [javascript, backbone.js, webpack, arangodb, database, nosql, meetup, avenue code]
 category: event
 ---
 
