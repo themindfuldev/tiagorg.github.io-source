@@ -1,6 +1,6 @@
 ---
 title: Mastering ES6 higher order functions for Arrays
-tags: [javascript, functional programming, higher-order functions]
+tags: [javascript, functional programming, higher-order functions, es6, es2015]
 category: article
 ---
 

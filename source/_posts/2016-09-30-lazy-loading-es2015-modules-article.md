@@ -1,6 +1,6 @@
 ---
 title: Lazy Loading ES2015 modules in the browser (article)
-tags: [javascript, lazy-loading, es2015, commonjs, amd, requirejs, webpack, system.js, jspm, design patterns, fedc, devcon5, abstractions, avenue code]
+tags: [javascript, lazy-loading, es2015, es6, commonjs, amd, requirejs, webpack, system.js, jspm, design patterns, fedc, devcon5, abstractions, avenue code]
 category: article
 ---
 
