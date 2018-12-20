@@ -13,7 +13,7 @@ This talk explains some pitfalls, solutions and good practices for common scenar
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kapSK4aovUs" frameborder="0" allowfullscreen></iframe>
 
 #### Slide deck
-* [Slide deck link](//tiagorg.com/talk-10-tips-for-writing-maintainable-code-in-backbone/#/)
+* [Slide deck link](//themindfuldev.github.io/talk-10-tips-for-writing-maintainable-code-in-backbone/#/)
 
 #### Prerequisites:
 
